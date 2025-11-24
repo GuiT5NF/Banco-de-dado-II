@@ -1,6 +1,6 @@
 # 📈 Análise de Mercado & Big Data Financeiro
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Data Science](https://img.shields.io/badge/Data%20Science-Anal%C3%ADtico-orange?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge) ![Languages](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Data Science](https://img.shields.io/badge/Data%20Science-Anal%C3%ADtico-orange?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge) ![Languages](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 ## 📖 Sobre o Projeto
 
