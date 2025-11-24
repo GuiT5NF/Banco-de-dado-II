@@ -110,6 +110,11 @@ Abaixo, a documentação das Views Analíticas desenvolvidas:
 
 ## 📊 4.1. View Base de Cotações (vw_Cotacoes_Empresas)
 Conceito: Esta é a camada de "Enriquecimento de Dados". No banco relacional, os dados são normalizados e separados por IDs. No Analytics, precisamos de leitura rápida. Esta view materializa a junção entre o histórico de preços e os dados cadastrais da empresa, eliminando a necessidade de múltiplos lookups em consultas futuras.
+Lógica Técnica:
+
+Utiliza $lookup para simular um LEFT JOIN entre a coleção de cotações e a de empresas.
+
+Utiliza $project para entregar um documento limpo (Ticker, Nome, Data, Valor).
 ```java
 [
   {
