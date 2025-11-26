@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b66"
+  },
+  "id_indices": 1,
+  "nome_indices": "Laborum Iure Index",
+  "sigla": "ULBA1",
+  "pais_id_pais": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b67"
+  },
+  "id_indices": 2,
+  "nome_indices": "Saepe Sequi Index",
+  "sigla": "GFGZ2",
+  "pais_id_pais": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b68"
+  },
+  "id_indices": 3,
+  "nome_indices": "Inventore Id Index",
+  "sigla": "KWNL3",
+  "pais_id_pais": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b69"
+  },
+  "id_indices": 4,
+  "nome_indices": "Dignissimos Qui Index",
+  "sigla": "AUGA4",
+  "pais_id_pais": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b6a"
+  },
+  "id_indices": 5,
+  "nome_indices": "Libero Architecto Index",
+  "sigla": "EAST5",
+  "pais_id_pais": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b6b"
+  },
+  "id_indices": 6,
+  "nome_indices": "Velit Assumenda Index",
+  "sigla": "WLZM6",
+  "pais_id_pais": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b6c"
+  },
+  "id_indices": 7,
+  "nome_indices": "Quibusdam Esse Index",
+  "sigla": "YKAZ7",
+  "pais_id_pais": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b6d"
+  },
+  "id_indices": 8,
+  "nome_indices": "Possimus Ad Index",
+  "sigla": "PGWK8",
+  "pais_id_pais": 5
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b6e"
+  },
+  "id_indices": 9,
+  "nome_indices": "Blanditiis Ab Index",
+  "sigla": "GQGF9",
+  "pais_id_pais": 5
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b6f"
+  },
+  "id_indices": 10,
+  "nome_indices": "Eum Possimus Index",
+  "sigla": "DSNN10",
+  "pais_id_pais": 6
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b70"
+  },
+  "id_indices": 11,
+  "nome_indices": "Voluptates Culpa Index",
+  "sigla": "XNPF11",
+  "pais_id_pais": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b71"
+  },
+  "id_indices": 12,
+  "nome_indices": "Blanditiis Temporibus Index",
+  "sigla": "BFLI12",
+  "pais_id_pais": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b72"
+  },
+  "id_indices": 13,
+  "nome_indices": "Accusantium Atque Index",
+  "sigla": "QJZW13",
+  "pais_id_pais": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b73"
+  },
+  "id_indices": 14,
+  "nome_indices": "Ad Magnam Index",
+  "sigla": "HDVJ14",
+  "pais_id_pais": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b74"
+  },
+  "id_indices": 15,
+  "nome_indices": "Impedit Quod Index",
+  "sigla": "IGHC15",
+  "pais_id_pais": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b75"
+  },
+  "id_indices": 16,
+  "nome_indices": "Temporibus Impedit Index",
+  "sigla": "QPDQ16",
+  "pais_id_pais": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b76"
+  },
+  "id_indices": 17,
+  "nome_indices": "Distinctio Ipsum Index",
+  "sigla": "DNXN17",
+  "pais_id_pais": 5
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b77"
+  },
+  "id_indices": 18,
+  "nome_indices": "Qui Aspernatur Index",
+  "sigla": "MEEH18",
+  "pais_id_pais": 6
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b78"
+  },
+  "id_indices": 19,
+  "nome_indices": "Deleniti Libero Index",
+  "sigla": "HHZB19",
+  "pais_id_pais": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7a10dc32b2c9b4b3b79"
+  },
+  "id_indices": 20,
+  "nome_indices": "Commodi Exercitationem Index",
+  "sigla": "SJHV20",
+  "pais_id_pais": 4
+}]

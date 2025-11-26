@@ -1,0 +1,8000 @@
+[{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 372.62,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 372.62,
+  "media_movel_30d": 372.62
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 296.53,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 334.57,
+  "media_movel_30d": 334.57
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 280.21,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 316.45,
+  "media_movel_30d": 316.45
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 213.48,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 290.71,
+  "media_movel_30d": 290.71
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 349.6,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 302.49,
+  "media_movel_30d": 302.49
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 347.85,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 310.05,
+  "media_movel_30d": 310.05
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 462.26,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 331.79,
+  "media_movel_30d": 331.79
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 273.02,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 317.56,
+  "media_movel_30d": 324.45
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 195.39,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 303.12,
+  "media_movel_30d": 310.11
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 249.1,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 298.67,
+  "media_movel_30d": 304.01
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 307.83,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 312.15,
+  "media_movel_30d": 304.35
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 79.24,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 273.53,
+  "media_movel_30d": 285.59
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 190.59,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 251.06,
+  "media_movel_30d": 278.29
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 137.83,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 204.71,
+  "media_movel_30d": 268.25
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 369.3,
+  "ticker": "AOBM6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 218.47,
+  "media_movel_30d": 274.99
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 196.91,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 196.91,
+  "media_movel_30d": 196.91
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 101.04,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 148.97,
+  "media_movel_30d": 148.97
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 297.03,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 198.33,
+  "media_movel_30d": 198.33
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 47.48,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 160.61,
+  "media_movel_30d": 160.61
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 28.95,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 134.28,
+  "media_movel_30d": 134.28
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 228.35,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 149.96,
+  "media_movel_30d": 149.96
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 249.12,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 164.13,
+  "media_movel_30d": 164.13
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 341.66,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 184.8,
+  "media_movel_30d": 186.32
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 435.14,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 232.53,
+  "media_movel_30d": 213.96
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 96.29,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 203.86,
+  "media_movel_30d": 202.2
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 84.35,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 209.12,
+  "media_movel_30d": 191.48
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 34.62,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 209.93,
+  "media_movel_30d": 178.41
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 125.23,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 195.2,
+  "media_movel_30d": 174.32
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 319.43,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 205.25,
+  "media_movel_30d": 184.69
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 449.17,
+  "ticker": "AVSL5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 220.6,
+  "media_movel_30d": 202.32
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 466.66,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 466.66,
+  "media_movel_30d": 466.66
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 311.61,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 389.13,
+  "media_movel_30d": 389.13
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 482.8,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 420.36,
+  "media_movel_30d": 420.36
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 314.72,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 393.95,
+  "media_movel_30d": 393.95
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 412.58,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 397.67,
+  "media_movel_30d": 397.67
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 242.91,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 371.88,
+  "media_movel_30d": 371.88
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 177.84,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 344.16,
+  "media_movel_30d": 344.16
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 242.4,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 312.12,
+  "media_movel_30d": 331.44
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 22.57,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 270.83,
+  "media_movel_30d": 297.12
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 135,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 221.15,
+  "media_movel_30d": 280.91
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 471.19,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 243.5,
+  "media_movel_30d": 298.21
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 64.26,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 193.74,
+  "media_movel_30d": 278.71
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 367.88,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 211.59,
+  "media_movel_30d": 285.57
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 492.49,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 256.54,
+  "media_movel_30d": 300.35
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 158.46,
+  "ticker": "AZMP3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 244.55,
+  "media_movel_30d": 290.89
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 214.28,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 214.28,
+  "media_movel_30d": 214.28
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 419.38,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 316.83,
+  "media_movel_30d": 316.83
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 42.01,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 225.22,
+  "media_movel_30d": 225.22
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 322.37,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 249.51,
+  "media_movel_30d": 249.51
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 109.36,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 221.48,
+  "media_movel_30d": 221.48
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 407.96,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 252.56,
+  "media_movel_30d": 252.56
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 418.16,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 276.22,
+  "media_movel_30d": 276.22
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 201.13,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 274.34,
+  "media_movel_30d": 266.83
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 362.67,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 266.24,
+  "media_movel_30d": 277.48
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 10.5,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 261.74,
+  "media_movel_30d": 250.78
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 123.33,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 233.3,
+  "media_movel_30d": 239.2
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 195.93,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 245.67,
+  "media_movel_30d": 235.59
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 487.84,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 257.08,
+  "media_movel_30d": 254.99
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 392.01,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 253.34,
+  "media_movel_30d": 264.78
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 433.59,
+  "ticker": "BKZJ6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 286.55,
+  "media_movel_30d": 276.03
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 397.45,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 397.45,
+  "media_movel_30d": 397.45
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 201.17,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 299.31,
+  "media_movel_30d": 299.31
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 54.47,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 217.7,
+  "media_movel_30d": 217.7
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 392.52,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 261.4,
+  "media_movel_30d": 261.4
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 431.63,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 295.45,
+  "media_movel_30d": 295.45
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 260.1,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 289.56,
+  "media_movel_30d": 289.56
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 86.96,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 260.61,
+  "media_movel_30d": 260.61
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 375.75,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 257.51,
+  "media_movel_30d": 275.01
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 120.02,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 245.92,
+  "media_movel_30d": 257.79
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 396.88,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 294.84,
+  "media_movel_30d": 271.69
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 22.5,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 241.98,
+  "media_movel_30d": 249.04
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 195.85,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 208.29,
+  "media_movel_30d": 244.61
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 143.54,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 191.64,
+  "media_movel_30d": 236.83
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 19.26,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 181.97,
+  "media_movel_30d": 221.29
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 32.41,
+  "ticker": "BUYR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 132.92,
+  "media_movel_30d": 208.7
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 52.46,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 52.46,
+  "media_movel_30d": 52.46
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 361.56,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 207.01,
+  "media_movel_30d": 207.01
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 278.16,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 230.73,
+  "media_movel_30d": 230.73
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 427.48,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 279.92,
+  "media_movel_30d": 279.92
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 100.28,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 243.99,
+  "media_movel_30d": 243.99
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 55.1,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 212.51,
+  "media_movel_30d": 212.51
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 447.88,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 246.13,
+  "media_movel_30d": 246.13
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 323.4,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 284.84,
+  "media_movel_30d": 255.79
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 336.06,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 281.19,
+  "media_movel_30d": 264.71
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 380.49,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 295.81,
+  "media_movel_30d": 276.29
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 291.39,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 276.37,
+  "media_movel_30d": 277.66
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 105.35,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 277.1,
+  "media_movel_30d": 263.3
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 203.87,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 298.35,
+  "media_movel_30d": 258.73
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 299.55,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 277.16,
+  "media_movel_30d": 261.65
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 497.64,
+  "ticker": "BWWA5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 302.05,
+  "media_movel_30d": 277.38
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 350.98,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 350.98,
+  "media_movel_30d": 350.98
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 120.83,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 235.91,
+  "media_movel_30d": 235.91
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 362.78,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 278.2,
+  "media_movel_30d": 278.2
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 39.53,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 218.53,
+  "media_movel_30d": 218.53
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 171.33,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 209.09,
+  "media_movel_30d": 209.09
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 217.2,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 210.44,
+  "media_movel_30d": 210.44
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 166.24,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 204.13,
+  "media_movel_30d": 204.13
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 414.18,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 213.16,
+  "media_movel_30d": 230.38
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 58.49,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 204.25,
+  "media_movel_30d": 211.28
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 437.29,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 214.89,
+  "media_movel_30d": 233.88
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 200.93,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 237.95,
+  "media_movel_30d": 230.89
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 166.93,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 237.32,
+  "media_movel_30d": 225.56
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 156.07,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 228.59,
+  "media_movel_30d": 220.21
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 495.17,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 275.58,
+  "media_movel_30d": 239.85
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 243.3,
+  "ticker": "BXDN1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 251.17,
+  "media_movel_30d": 240.08
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 471.46,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 471.46,
+  "media_movel_30d": 471.46
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 311.48,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 391.47,
+  "media_movel_30d": 391.47
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 358.11,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 380.35,
+  "media_movel_30d": 380.35
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 327.71,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 367.19,
+  "media_movel_30d": 367.19
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 32.2,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 300.19,
+  "media_movel_30d": 300.19
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 315.19,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 302.69,
+  "media_movel_30d": 302.69
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 480.53,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 328.1,
+  "media_movel_30d": 328.1
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 109.46,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 276.38,
+  "media_movel_30d": 300.77
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 193.51,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 259.53,
+  "media_movel_30d": 288.85
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 451.19,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 272.83,
+  "media_movel_30d": 305.08
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 331.3,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 273.34,
+  "media_movel_30d": 307.47
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 51.4,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 276.08,
+  "media_movel_30d": 286.13
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 350.93,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 281.19,
+  "media_movel_30d": 291.11
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 360.32,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 264.02,
+  "media_movel_30d": 296.06
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 160.27,
+  "ticker": "CFBV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 271.27,
+  "media_movel_30d": 287
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 270.32,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 270.32,
+  "media_movel_30d": 270.32
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 347,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 308.66,
+  "media_movel_30d": 308.66
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 233.11,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 283.48,
+  "media_movel_30d": 283.48
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 325.82,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 294.06,
+  "media_movel_30d": 294.06
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 81.49,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 251.55,
+  "media_movel_30d": 251.55
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 346.91,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 267.44,
+  "media_movel_30d": 267.44
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 35.5,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 234.31,
+  "media_movel_30d": 234.31
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 375.13,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 249.28,
+  "media_movel_30d": 251.91
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 417.67,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 259.38,
+  "media_movel_30d": 270.33
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 261.19,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 263.39,
+  "media_movel_30d": 269.41
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 286.78,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 257.81,
+  "media_movel_30d": 270.99
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 221.16,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 277.76,
+  "media_movel_30d": 266.84
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 170.95,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 252.63,
+  "media_movel_30d": 259.46
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 150.15,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 269,
+  "media_movel_30d": 251.66
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 329.57,
+  "ticker": "CHMX1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 262.5,
+  "media_movel_30d": 256.85
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 16.12,
+  "ticker": "COWX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 16.12,
+  "media_movel_30d": 16.12
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 317.22,
+  "ticker": "COWX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 166.67,
+  "media_movel_30d": 166.67
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 451.6,
+  "ticker": "COWX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 261.65,
+  "media_movel_30d": 261.65
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 430.48,
+  "ticker": "COWX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 303.86,
+  "media_movel_30d": 303.86
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 373.93,
+  "ticker": "COWX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 317.87,
+  "media_movel_30d": 317.87
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 227.26,
+  "ticker": "COWX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 302.77,
+  "media_movel_30d": 302.77
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 375.65,
+  "ticker": "COWX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 313.18,
+  "media_movel_30d": 313.18
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 316.83,
+  "ticker": "COWX1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 356.14,
+  "media_movel_30d": 313.64
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 257.97,
+  "ticker": "COWX1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 347.67,
+  "media_movel_30d": 307.45
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 198.47,
+  "ticker": "COWX1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 311.51,
+  "media_movel_30d": 296.55
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 348.79,
+  "ticker": "COWX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 299.84,
+  "media_movel_30d": 301.3
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 63.02,
+  "ticker": "COWX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 255.43,
+  "media_movel_30d": 281.44
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 450.78,
+  "ticker": "COWX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 287.36,
+  "media_movel_30d": 294.47
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 491.11,
+  "ticker": "COWX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 303.85,
+  "media_movel_30d": 308.52
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 215.22,
+  "ticker": "COWX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 289.34,
+  "media_movel_30d": 302.3
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 443.73,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 443.73,
+  "media_movel_30d": 443.73
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 331.19,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 387.46,
+  "media_movel_30d": 387.46
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 15.37,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 263.43,
+  "media_movel_30d": 263.43
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 386.45,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 294.19,
+  "media_movel_30d": 294.19
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 223.88,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 280.12,
+  "media_movel_30d": 280.12
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 426.48,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 304.52,
+  "media_movel_30d": 304.52
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 389.8,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 316.7,
+  "media_movel_30d": 316.7
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 431.26,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 314.92,
+  "media_movel_30d": 331.02
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 455.63,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 332.7,
+  "media_movel_30d": 344.87
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 271.98,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 369.35,
+  "media_movel_30d": 337.58
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 343.68,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 363.24,
+  "media_movel_30d": 338.13
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 292.9,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 373.1,
+  "media_movel_30d": 334.36
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 129.73,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 330.71,
+  "media_movel_30d": 318.62
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 340.95,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 323.73,
+  "media_movel_30d": 320.22
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 95.05,
+  "ticker": "CPAR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 275.7,
+  "media_movel_30d": 305.21
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 432.45,
+  "ticker": "DENI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 432.45,
+  "media_movel_30d": 432.45
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 10.34,
+  "ticker": "DENI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 221.39,
+  "media_movel_30d": 221.39
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 156.15,
+  "ticker": "DENI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 199.65,
+  "media_movel_30d": 199.65
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 199.97,
+  "ticker": "DENI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 199.73,
+  "media_movel_30d": 199.73
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 275.54,
+  "ticker": "DENI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 214.89,
+  "media_movel_30d": 214.89
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 182.38,
+  "ticker": "DENI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 209.47,
+  "media_movel_30d": 209.47
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 310.16,
+  "ticker": "DENI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 223.86,
+  "media_movel_30d": 223.86
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 104.86,
+  "ticker": "DENI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 177.06,
+  "media_movel_30d": 208.98
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 439.42,
+  "ticker": "DENI3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 238.35,
+  "media_movel_30d": 234.59
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 401.98,
+  "ticker": "DENI3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 273.47,
+  "media_movel_30d": 251.32
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 393.06,
+  "ticker": "DENI3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 301.06,
+  "media_movel_30d": 264.21
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 302.98,
+  "ticker": "DENI3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 304.98,
+  "media_movel_30d": 267.44
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 161.08,
+  "ticker": "DENI3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 301.93,
+  "media_movel_30d": 259.26
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 27.46,
+  "ticker": "DENI3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 261.55,
+  "media_movel_30d": 242.7
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 331.02,
+  "ticker": "DENI3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 293.86,
+  "media_movel_30d": 248.59
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 85.5,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 85.5,
+  "media_movel_30d": 85.5
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 377.6,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 231.55,
+  "media_movel_30d": 231.55
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 400.85,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 287.98,
+  "media_movel_30d": 287.98
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 45.32,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 227.32,
+  "media_movel_30d": 227.32
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 299.49,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 241.75,
+  "media_movel_30d": 241.75
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 187.99,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 232.79,
+  "media_movel_30d": 232.79
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 47.92,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 206.38,
+  "media_movel_30d": 206.38
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 254.76,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 230.56,
+  "media_movel_30d": 212.43
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 211.69,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 206.86,
+  "media_movel_30d": 212.35
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 403.34,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 207.22,
+  "media_movel_30d": 231.45
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 428.66,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 261.98,
+  "media_movel_30d": 249.37
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 393.59,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 275.42,
+  "media_movel_30d": 261.39
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 74.2,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 259.17,
+  "media_movel_30d": 246.99
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 343.5,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 301.39,
+  "media_movel_30d": 253.89
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 395.03,
+  "ticker": "DHEU6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 321.43,
+  "media_movel_30d": 263.3
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 366.83,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 366.83,
+  "media_movel_30d": 366.83
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 413.63,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 390.23,
+  "media_movel_30d": 390.23
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 269.01,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 349.82,
+  "media_movel_30d": 349.82
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 362.56,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 353.01,
+  "media_movel_30d": 353.01
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 350.98,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 352.6,
+  "media_movel_30d": 352.6
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 279.7,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 340.45,
+  "media_movel_30d": 340.45
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 80.57,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 303.33,
+  "media_movel_30d": 303.33
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 289.55,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 292.29,
+  "media_movel_30d": 301.6
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 351.23,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 283.37,
+  "media_movel_30d": 307.12
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 427.34,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 305.99,
+  "media_movel_30d": 319.14
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 167.52,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 278.13,
+  "media_movel_30d": 305.36
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 533.24,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 304.16,
+  "media_movel_30d": 324.35
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 68.51,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 273.99,
+  "media_movel_30d": 304.67
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 442.06,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 325.64,
+  "media_movel_30d": 314.48
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 391.31,
+  "ticker": "DIRS3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 340.17,
+  "media_movel_30d": 319.6
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 170,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 170,
+  "media_movel_30d": 170
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 376.71,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 273.36,
+  "media_movel_30d": 273.36
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 334.52,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 293.74,
+  "media_movel_30d": 293.74
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 180.82,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 265.51,
+  "media_movel_30d": 265.51
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 305.88,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 273.59,
+  "media_movel_30d": 273.59
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 350.15,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 286.35,
+  "media_movel_30d": 286.35
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 233.9,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 278.85,
+  "media_movel_30d": 278.85
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 272.89,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 293.55,
+  "media_movel_30d": 278.11
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 101.87,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 254.29,
+  "media_movel_30d": 258.53
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 384.05,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 261.37,
+  "media_movel_30d": 271.08
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 292.88,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 277.37,
+  "media_movel_30d": 273.06
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 103.68,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 248.49,
+  "media_movel_30d": 258.95
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 147.5,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 219.54,
+  "media_movel_30d": 250.37
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 494.7,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 256.8,
+  "media_movel_30d": 267.82
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 451.48,
+  "ticker": "DYHY6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 282.31,
+  "media_movel_30d": 280.07
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 162.27,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 162.27,
+  "media_movel_30d": 162.27
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 60.26,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 111.27,
+  "media_movel_30d": 111.27
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 194.55,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 139.03,
+  "media_movel_30d": 139.03
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 348.98,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 191.52,
+  "media_movel_30d": 191.52
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 99.81,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 173.17,
+  "media_movel_30d": 173.17
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 196.38,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 177.04,
+  "media_movel_30d": 177.04
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 433.58,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 213.69,
+  "media_movel_30d": 213.69
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 318.44,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 236,
+  "media_movel_30d": 226.78
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 412.22,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 286.28,
+  "media_movel_30d": 247.39
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 53.98,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 266.2,
+  "media_movel_30d": 228.05
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 123.79,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 234.03,
+  "media_movel_30d": 218.57
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 79.07,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 231.07,
+  "media_movel_30d": 206.94
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 252.19,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 239.04,
+  "media_movel_30d": 210.42
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 24.93,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 180.66,
+  "media_movel_30d": 197.17
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 213.19,
+  "ticker": "FDNX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 165.62,
+  "media_movel_30d": 198.24
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 372.23,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 372.23,
+  "media_movel_30d": 372.23
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 351.6,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 361.92,
+  "media_movel_30d": 361.92
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 402.51,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 375.45,
+  "media_movel_30d": 375.45
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 450.8,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 394.29,
+  "media_movel_30d": 394.29
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 87.44,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 332.92,
+  "media_movel_30d": 332.92
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 323.69,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 331.38,
+  "media_movel_30d": 331.38
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 468.03,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 350.9,
+  "media_movel_30d": 350.9
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 456.17,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 362.89,
+  "media_movel_30d": 364.06
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 189.17,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 339.69,
+  "media_movel_30d": 344.63
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 19.6,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 284.99,
+  "media_movel_30d": 312.12
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 16.07,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 222.88,
+  "media_movel_30d": 285.21
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 162.7,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 233.63,
+  "media_movel_30d": 275
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 140.72,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 207.49,
+  "media_movel_30d": 264.67
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 264.44,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 178.41,
+  "media_movel_30d": 264.66
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 132.94,
+  "ticker": "GBHS5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 132.23,
+  "media_movel_30d": 255.87
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 345.46,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 345.46,
+  "media_movel_30d": 345.46
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 241.29,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 293.38,
+  "media_movel_30d": 293.38
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 314.21,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 300.32,
+  "media_movel_30d": 300.32
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 297.83,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 299.7,
+  "media_movel_30d": 299.7
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 377.11,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 315.18,
+  "media_movel_30d": 315.18
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 356.76,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 322.11,
+  "media_movel_30d": 322.11
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 191.82,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 303.5,
+  "media_movel_30d": 303.5
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 441.57,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 317.23,
+  "media_movel_30d": 320.76
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 329.19,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 329.78,
+  "media_movel_30d": 321.69
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 251.73,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 320.86,
+  "media_movel_30d": 314.7
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 323.28,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 324.49,
+  "media_movel_30d": 315.48
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 442.81,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 333.88,
+  "media_movel_30d": 326.09
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 322.68,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 329.01,
+  "media_movel_30d": 325.83
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 76.76,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 312.57,
+  "media_movel_30d": 308.04
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 330.26,
+  "ticker": "GKXN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 296.67,
+  "media_movel_30d": 309.52
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 308.25,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 308.25,
+  "media_movel_30d": 308.25
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 202.65,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 255.45,
+  "media_movel_30d": 255.45
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 234.25,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 248.38,
+  "media_movel_30d": 248.38
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 283.09,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 257.06,
+  "media_movel_30d": 257.06
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 91.38,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 223.92,
+  "media_movel_30d": 223.92
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 78.11,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 199.62,
+  "media_movel_30d": 199.62
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 309.71,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 215.35,
+  "media_movel_30d": 215.35
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 397,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 228.03,
+  "media_movel_30d": 238.06
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 133.76,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 218.19,
+  "media_movel_30d": 226.47
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 132.22,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 203.61,
+  "media_movel_30d": 217.04
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 98.19,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 177.2,
+  "media_movel_30d": 206.24
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 98.83,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 178.26,
+  "media_movel_30d": 197.29
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 190.04,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 194.25,
+  "media_movel_30d": 196.73
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 116.56,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 166.66,
+  "media_movel_30d": 191
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 255.14,
+  "ticker": "GOSJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 146.39,
+  "media_movel_30d": 195.28
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 324.87,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 324.87,
+  "media_movel_30d": 324.87
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 275.03,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 299.95,
+  "media_movel_30d": 299.95
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 444.97,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 348.29,
+  "media_movel_30d": 348.29
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 189.36,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 308.56,
+  "media_movel_30d": 308.56
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 387.01,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 324.25,
+  "media_movel_30d": 324.25
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 213.2,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 305.74,
+  "media_movel_30d": 305.74
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 511.87,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 335.19,
+  "media_movel_30d": 335.19
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 147.32,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 309.82,
+  "media_movel_30d": 311.7
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 112.66,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 286.63,
+  "media_movel_30d": 289.59
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 211.22,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 253.23,
+  "media_movel_30d": 281.75
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 390.87,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 282.02,
+  "media_movel_30d": 291.67
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 472.28,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 294.2,
+  "media_movel_30d": 306.72
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 437.66,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 326.27,
+  "media_movel_30d": 316.79
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 351.09,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 303.3,
+  "media_movel_30d": 319.24
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 191.89,
+  "ticker": "GXQN4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 309.67,
+  "media_movel_30d": 310.75
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 85.93,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 85.93,
+  "media_movel_30d": 85.93
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 173.63,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 129.78,
+  "media_movel_30d": 129.78
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 216.18,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 158.58,
+  "media_movel_30d": 158.58
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 103.41,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 144.79,
+  "media_movel_30d": 144.79
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 394.47,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 194.72,
+  "media_movel_30d": 194.72
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 495.51,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 244.86,
+  "media_movel_30d": 244.86
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 226.48,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 242.23,
+  "media_movel_30d": 242.23
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 53.95,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 237.66,
+  "media_movel_30d": 218.69
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 503.68,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 284.81,
+  "media_movel_30d": 250.36
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 92.48,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 267.14,
+  "media_movel_30d": 234.57
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 173.66,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 277.18,
+  "media_movel_30d": 229.03
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 177.48,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 246.18,
+  "media_movel_30d": 224.74
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 200.91,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 204.09,
+  "media_movel_30d": 222.91
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 506.38,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 244.08,
+  "media_movel_30d": 243.15
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 484.71,
+  "ticker": "HIFW6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 305.61,
+  "media_movel_30d": 259.26
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 186.91,
+  "ticker": "INQB3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 186.91,
+  "media_movel_30d": 186.91
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 170.94,
+  "ticker": "INQB3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 178.93,
+  "media_movel_30d": 178.93
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 19.91,
+  "ticker": "INQB3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 125.92,
+  "media_movel_30d": 125.92
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 341.76,
+  "ticker": "INQB3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 179.88,
+  "media_movel_30d": 179.88
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 519.49,
+  "ticker": "INQB3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 247.8,
+  "media_movel_30d": 247.8
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 389.87,
+  "ticker": "INQB3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 271.48,
+  "media_movel_30d": 271.48
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 301.92,
+  "ticker": "INQB3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 275.83,
+  "media_movel_30d": 275.83
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 224.36,
+  "ticker": "INQB3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 281.18,
+  "media_movel_30d": 269.39
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 102.13,
+  "ticker": "INQB3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 271.35,
+  "media_movel_30d": 250.81
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 368.42,
+  "ticker": "INQB3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 321.14,
+  "media_movel_30d": 262.57
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 409.44,
+  "ticker": "INQB3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 330.8,
+  "media_movel_30d": 275.92
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 16.44,
+  "ticker": "INQB3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 258.94,
+  "media_movel_30d": 254.3
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 45.96,
+  "ticker": "INQB3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 209.81,
+  "media_movel_30d": 238.27
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 327.99,
+  "ticker": "INQB3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 213.53,
+  "media_movel_30d": 244.68
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 435.38,
+  "ticker": "INQB3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 243.68,
+  "media_movel_30d": 257.39
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 75.64,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 75.64,
+  "media_movel_30d": 75.64
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 235.04,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 155.34,
+  "media_movel_30d": 155.34
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 417.29,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 242.66,
+  "media_movel_30d": 242.66
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 476.52,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 301.12,
+  "media_movel_30d": 301.12
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 80.06,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 256.91,
+  "media_movel_30d": 256.91
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 385.48,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 278.34,
+  "media_movel_30d": 278.34
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 303.74,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 281.97,
+  "media_movel_30d": 281.97
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 391.21,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 327.05,
+  "media_movel_30d": 295.62
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 464.29,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 359.8,
+  "media_movel_30d": 314.36
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 490.61,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 370.27,
+  "media_movel_30d": 331.99
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 408.94,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 360.62,
+  "media_movel_30d": 338.98
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 26.18,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 352.92,
+  "media_movel_30d": 312.92
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 70.8,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 307.97,
+  "media_movel_30d": 294.29
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 399.84,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 321.7,
+  "media_movel_30d": 301.83
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 408.58,
+  "ticker": "ISPV6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 324.18,
+  "media_movel_30d": 308.95
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 242.5,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 242.5,
+  "media_movel_30d": 242.5
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 407.98,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 325.24,
+  "media_movel_30d": 325.24
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 493.97,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 381.48,
+  "media_movel_30d": 381.48
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 236.8,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 345.31,
+  "media_movel_30d": 345.31
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 346.55,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 345.56,
+  "media_movel_30d": 345.56
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 467.75,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 365.93,
+  "media_movel_30d": 365.93
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 399.13,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 370.67,
+  "media_movel_30d": 370.67
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 100.03,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 350.32,
+  "media_movel_30d": 336.84
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 121.41,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 309.38,
+  "media_movel_30d": 312.9
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 196.85,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 266.93,
+  "media_movel_30d": 301.3
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 108.08,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 248.54,
+  "media_movel_30d": 283.73
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 392.01,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 255.04,
+  "media_movel_30d": 292.75
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 357.4,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 239.27,
+  "media_movel_30d": 297.73
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 299.6,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 225.05,
+  "media_movel_30d": 297.86
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 307.36,
+  "ticker": "ITOQ6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 254.67,
+  "media_movel_30d": 298.49
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 327.6,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 327.6,
+  "media_movel_30d": 327.6
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 14.2,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 170.9,
+  "media_movel_30d": 170.9
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 322.22,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 221.34,
+  "media_movel_30d": 221.34
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 500.21,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 291.06,
+  "media_movel_30d": 291.06
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 98.95,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 252.64,
+  "media_movel_30d": 252.64
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 401.92,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 277.52,
+  "media_movel_30d": 277.52
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 462.11,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 303.89,
+  "media_movel_30d": 303.89
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 494.3,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 327.7,
+  "media_movel_30d": 327.69
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 79.44,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 337.02,
+  "media_movel_30d": 300.11
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 27.67,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 294.94,
+  "media_movel_30d": 272.86
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 200.99,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 252.2,
+  "media_movel_30d": 266.33
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 475.78,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 306.03,
+  "media_movel_30d": 283.78
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 31.96,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 253.18,
+  "media_movel_30d": 264.41
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 51.49,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 194.52,
+  "media_movel_30d": 249.2
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 527.33,
+  "ticker": "JOZG1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 199.24,
+  "media_movel_30d": 267.74
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 274.22,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 274.22,
+  "media_movel_30d": 274.22
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 476.28,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 375.25,
+  "media_movel_30d": 375.25
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 108.08,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 286.19,
+  "media_movel_30d": 286.19
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 17.8,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 219.09,
+  "media_movel_30d": 219.09
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 454.83,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 266.24,
+  "media_movel_30d": 266.24
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 471.49,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 300.45,
+  "media_movel_30d": 300.45
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 310.27,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 301.85,
+  "media_movel_30d": 301.85
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 141.84,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 282.94,
+  "media_movel_30d": 281.85
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 286.58,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 255.84,
+  "media_movel_30d": 282.38
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 450.04,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 304.69,
+  "media_movel_30d": 299.14
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 89.71,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 314.97,
+  "media_movel_30d": 280.1
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 33.34,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 254.75,
+  "media_movel_30d": 259.54
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 174.02,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 212.26,
+  "media_movel_30d": 252.96
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 437.23,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 230.39,
+  "media_movel_30d": 266.12
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 349.53,
+  "ticker": "KFRX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 260.06,
+  "media_movel_30d": 271.68
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 454.82,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 454.82,
+  "media_movel_30d": 454.82
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 434.94,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 444.88,
+  "media_movel_30d": 444.88
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 494.8,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 461.52,
+  "media_movel_30d": 461.52
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 320.22,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 426.19,
+  "media_movel_30d": 426.19
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 434.41,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 427.84,
+  "media_movel_30d": 427.84
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 348.98,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 414.69,
+  "media_movel_30d": 414.69
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 135.7,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 374.84,
+  "media_movel_30d": 374.84
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 452.13,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 374.45,
+  "media_movel_30d": 384.5
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 135.64,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 331.7,
+  "media_movel_30d": 356.85
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 226.09,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 293.31,
+  "media_movel_30d": 343.77
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 318.33,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 293.04,
+  "media_movel_30d": 341.46
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 244.66,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 265.93,
+  "media_movel_30d": 333.39
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 363.95,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 268.07,
+  "media_movel_30d": 335.74
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 133.32,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 267.73,
+  "media_movel_30d": 321.28
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 468.94,
+  "ticker": "KJNR5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 270.13,
+  "media_movel_30d": 331.13
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 104.09,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 104.09,
+  "media_movel_30d": 104.09
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 217.4,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 160.75,
+  "media_movel_30d": 160.75
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 218.47,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 179.99,
+  "media_movel_30d": 179.99
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 460.86,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 250.21,
+  "media_movel_30d": 250.21
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 299.7,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 260.1,
+  "media_movel_30d": 260.1
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 92.97,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 232.25,
+  "media_movel_30d": 232.25
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 150.69,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 220.6,
+  "media_movel_30d": 220.6
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 220.69,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 237.25,
+  "media_movel_30d": 220.61
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 44.92,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 212.61,
+  "media_movel_30d": 201.09
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 209.3,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 211.3,
+  "media_movel_30d": 201.91
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 190.41,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 172.67,
+  "media_movel_30d": 200.86
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 206.1,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 159.3,
+  "media_movel_30d": 201.3
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 104.5,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 160.94,
+  "media_movel_30d": 193.85
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 414.66,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 198.65,
+  "media_movel_30d": 209.63
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 173.4,
+  "ticker": "KKDE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 191.9,
+  "media_movel_30d": 207.21
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 216.93,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 216.93,
+  "media_movel_30d": 216.93
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 444.93,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 330.93,
+  "media_movel_30d": 330.93
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 110.97,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 257.61,
+  "media_movel_30d": 257.61
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 28.2,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 200.26,
+  "media_movel_30d": 200.26
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 147.4,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 189.69,
+  "media_movel_30d": 189.69
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 22.17,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 161.77,
+  "media_movel_30d": 161.77
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 136.66,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 158.18,
+  "media_movel_30d": 158.18
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 17.02,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 129.62,
+  "media_movel_30d": 140.53
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 537.07,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 142.78,
+  "media_movel_30d": 184.59
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 243.53,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 161.72,
+  "media_movel_30d": 190.49
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 343.19,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 206.72,
+  "media_movel_30d": 204.37
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 171.5,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 210.16,
+  "media_movel_30d": 201.63
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 153.05,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 228.86,
+  "media_movel_30d": 197.89
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 218.14,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 240.5,
+  "media_movel_30d": 199.34
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 446.5,
+  "ticker": "KPRT6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 301.85,
+  "media_movel_30d": 215.82
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 478.19,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 478.19,
+  "media_movel_30d": 478.19
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 492.89,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 485.54,
+  "media_movel_30d": 485.54
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 247.85,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 406.31,
+  "media_movel_30d": 406.31
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 82.37,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 325.32,
+  "media_movel_30d": 325.32
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 438.74,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 348.01,
+  "media_movel_30d": 348.01
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 378.32,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 353.06,
+  "media_movel_30d": 353.06
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 212.35,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 332.96,
+  "media_movel_30d": 332.96
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 159.98,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 287.5,
+  "media_movel_30d": 311.34
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 332.29,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 264.56,
+  "media_movel_30d": 313.66
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 401.01,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 286.44,
+  "media_movel_30d": 322.4
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 193.21,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 302.27,
+  "media_movel_30d": 310.65
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 326.27,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 286.2,
+  "media_movel_30d": 311.96
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 295.53,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 274.38,
+  "media_movel_30d": 310.69
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 271.43,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 282.82,
+  "media_movel_30d": 307.89
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 273.11,
+  "ticker": "KWDD4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 298.98,
+  "media_movel_30d": 305.57
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 138.36,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 138.36,
+  "media_movel_30d": 138.36
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 103.78,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 121.07,
+  "media_movel_30d": 121.07
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 12.14,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 84.76,
+  "media_movel_30d": 84.76
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 485.06,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 184.84,
+  "media_movel_30d": 184.84
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 400.83,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 228.03,
+  "media_movel_30d": 228.03
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 158.47,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 216.44,
+  "media_movel_30d": 216.44
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 80.89,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 197.08,
+  "media_movel_30d": 197.08
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 432.14,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 239.04,
+  "media_movel_30d": 226.46
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 473.89,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 291.92,
+  "media_movel_30d": 253.95
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 117.31,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 306.94,
+  "media_movel_30d": 240.29
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 481.54,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 306.44,
+  "media_movel_30d": 262.22
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 187.13,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 275.91,
+  "media_movel_30d": 255.96
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 259,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 290.27,
+  "media_movel_30d": 256.2
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 111.04,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 294.58,
+  "media_movel_30d": 245.83
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 37.3,
+  "ticker": "LAZH5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 238.17,
+  "media_movel_30d": 231.93
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 331.78,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 331.78,
+  "media_movel_30d": 331.78
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 111.2,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 221.49,
+  "media_movel_30d": 221.49
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 380.35,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 274.44,
+  "media_movel_30d": 274.44
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 463.85,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 321.8,
+  "media_movel_30d": 321.8
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 159.44,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 289.32,
+  "media_movel_30d": 289.32
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 462.16,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 318.13,
+  "media_movel_30d": 318.13
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 512.44,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 345.89,
+  "media_movel_30d": 345.89
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 261.6,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 335.86,
+  "media_movel_30d": 335.35
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 11.2,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 321.58,
+  "media_movel_30d": 299.34
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 206.26,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 296.71,
+  "media_movel_30d": 290.03
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 45.01,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 236.87,
+  "media_movel_30d": 267.75
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 452.15,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 278.69,
+  "media_movel_30d": 283.12
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 162.72,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 235.91,
+  "media_movel_30d": 273.86
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 197.65,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 190.94,
+  "media_movel_30d": 268.42
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 321.23,
+  "ticker": "LCIY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 199.46,
+  "media_movel_30d": 271.94
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 159.33,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 159.33,
+  "media_movel_30d": 159.33
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 13.59,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 86.46,
+  "media_movel_30d": 86.46
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 131.4,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 101.44,
+  "media_movel_30d": 101.44
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 194.3,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 124.66,
+  "media_movel_30d": 124.66
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 83.64,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 116.45,
+  "media_movel_30d": 116.45
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 342.73,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 154.16,
+  "media_movel_30d": 154.16
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 478.65,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 200.52,
+  "media_movel_30d": 200.52
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 103.87,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 192.6,
+  "media_movel_30d": 188.44
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 42.37,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 196.71,
+  "media_movel_30d": 172.21
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 337.17,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 226.1,
+  "media_movel_30d": 188.71
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 38.91,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 203.91,
+  "media_movel_30d": 175.09
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 222.68,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 223.77,
+  "media_movel_30d": 179.05
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 433.69,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 236.76,
+  "media_movel_30d": 198.64
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 88.6,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 181.04,
+  "media_movel_30d": 190.78
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 95.8,
+  "ticker": "LDOX1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 179.89,
+  "media_movel_30d": 184.45
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 463.68,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 463.68,
+  "media_movel_30d": 463.68
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 447.43,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 455.56,
+  "media_movel_30d": 455.56
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 281.69,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 397.6,
+  "media_movel_30d": 397.6
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 192.37,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 346.29,
+  "media_movel_30d": 346.29
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 413.41,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 359.72,
+  "media_movel_30d": 359.72
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 174.4,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 328.83,
+  "media_movel_30d": 328.83
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 411.46,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 340.63,
+  "media_movel_30d": 340.63
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 367.2,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 326.85,
+  "media_movel_30d": 343.95
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 421.37,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 323.13,
+  "media_movel_30d": 352.56
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 249.47,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 318.53,
+  "media_movel_30d": 342.25
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 127.13,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 309.21,
+  "media_movel_30d": 322.69
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 479.3,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 318.62,
+  "media_movel_30d": 335.74
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 183.46,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 319.91,
+  "media_movel_30d": 324.03
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 256.33,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 297.75,
+  "media_movel_30d": 319.19
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 423.1,
+  "ticker": "LIEG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 305.74,
+  "media_movel_30d": 326.12
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 250.11,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 250.11,
+  "media_movel_30d": 250.11
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 240.04,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 245.07,
+  "media_movel_30d": 245.07
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 338.55,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 276.23,
+  "media_movel_30d": 276.23
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 535.57,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 341.07,
+  "media_movel_30d": 341.07
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 452.8,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 363.41,
+  "media_movel_30d": 363.41
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 344.83,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 360.32,
+  "media_movel_30d": 360.32
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 35.65,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 313.94,
+  "media_movel_30d": 313.94
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 209.94,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 308.2,
+  "media_movel_30d": 300.94
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 476.54,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 341.98,
+  "media_movel_30d": 320.45
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 291.84,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 335.31,
+  "media_movel_30d": 317.59
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 128.94,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 277.22,
+  "media_movel_30d": 300.44
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 448.85,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 276.66,
+  "media_movel_30d": 312.81
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 477.77,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 295.65,
+  "media_movel_30d": 325.49
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 141.85,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 310.82,
+  "media_movel_30d": 312.38
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 33.45,
+  "ticker": "LLEV1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 285.61,
+  "media_movel_30d": 293.78
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 449.92,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 449.92,
+  "media_movel_30d": 449.92
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 476.37,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 463.14,
+  "media_movel_30d": 463.14
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 494.01,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 473.43,
+  "media_movel_30d": 473.43
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 473.21,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 473.38,
+  "media_movel_30d": 473.38
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 380.1,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 454.72,
+  "media_movel_30d": 454.72
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 290.86,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 427.41,
+  "media_movel_30d": 427.41
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 93.92,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 379.77,
+  "media_movel_30d": 379.77
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 425.1,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 376.22,
+  "media_movel_30d": 385.44
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 185.81,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 334.72,
+  "media_movel_30d": 363.26
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 503.11,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 336.02,
+  "media_movel_30d": 377.24
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 94.59,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 281.93,
+  "media_movel_30d": 351.55
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 433.67,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 289.58,
+  "media_movel_30d": 358.39
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 12.31,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 249.79,
+  "media_movel_30d": 331.77
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 254.13,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 272.67,
+  "media_movel_30d": 326.22
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 463.48,
+  "ticker": "MKJK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 278.16,
+  "media_movel_30d": 335.37
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 71.38,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 71.38,
+  "media_movel_30d": 71.38
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 13.82,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 42.6,
+  "media_movel_30d": 42.6
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 167,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 84.07,
+  "media_movel_30d": 84.07
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 146.77,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 99.74,
+  "media_movel_30d": 99.74
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 147.59,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 109.31,
+  "media_movel_30d": 109.31
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 360.99,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 151.26,
+  "media_movel_30d": 151.26
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 293.7,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 171.61,
+  "media_movel_30d": 171.61
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 379.36,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 215.6,
+  "media_movel_30d": 197.58
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 191.8,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 241.03,
+  "media_movel_30d": 196.93
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 500.86,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 288.72,
+  "media_movel_30d": 227.33
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 254.89,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 304.17,
+  "media_movel_30d": 229.83
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 404.16,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 340.82,
+  "media_movel_30d": 244.36
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 97.83,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 303.23,
+  "media_movel_30d": 233.09
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 249.8,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 296.96,
+  "media_movel_30d": 234.28
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 374.81,
+  "ticker": "MXYO3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 296.31,
+  "media_movel_30d": 243.65
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 475.75,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 475.75,
+  "media_movel_30d": 475.75
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 73.77,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 274.76,
+  "media_movel_30d": 274.76
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 186.95,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 245.49,
+  "media_movel_30d": 245.49
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 73.4,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 202.47,
+  "media_movel_30d": 202.47
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 286.66,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 219.31,
+  "media_movel_30d": 219.31
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 178.52,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 212.51,
+  "media_movel_30d": 212.51
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 340.77,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 230.83,
+  "media_movel_30d": 230.83
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 75.53,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 173.66,
+  "media_movel_30d": 211.42
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 293.54,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 205.05,
+  "media_movel_30d": 220.54
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 257.07,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 215.07,
+  "media_movel_30d": 224.2
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 385.92,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 259.72,
+  "media_movel_30d": 238.9
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 283.6,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 259.28,
+  "media_movel_30d": 242.62
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 464.07,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 300.07,
+  "media_movel_30d": 259.66
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 90.6,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 264.33,
+  "media_movel_30d": 247.58
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 450.29,
+  "ticker": "NGKE4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 317.87,
+  "media_movel_30d": 261.1
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 53.58,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 53.58,
+  "media_movel_30d": 53.58
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 176.87,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 115.22,
+  "media_movel_30d": 115.22
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 236.95,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 155.8,
+  "media_movel_30d": 155.8
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 467.64,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 233.76,
+  "media_movel_30d": 233.76
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 165.43,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 220.09,
+  "media_movel_30d": 220.09
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 173.15,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 212.27,
+  "media_movel_30d": 212.27
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 313.09,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 226.67,
+  "media_movel_30d": 226.67
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 361.97,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 270.73,
+  "media_movel_30d": 243.59
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 472.78,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 313,
+  "media_movel_30d": 269.05
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 178.6,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 304.67,
+  "media_movel_30d": 260.01
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 27.26,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 241.75,
+  "media_movel_30d": 238.85
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 241.89,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 252.68,
+  "media_movel_30d": 239.1
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 416.23,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 287.4,
+  "media_movel_30d": 252.73
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 326.7,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 289.35,
+  "media_movel_30d": 258.01
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 102.51,
+  "ticker": "OLOK5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 252.28,
+  "media_movel_30d": 247.64
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 14.75,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 14.75,
+  "media_movel_30d": 14.75
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 486.9,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 250.82,
+  "media_movel_30d": 250.82
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 294.79,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 265.48,
+  "media_movel_30d": 265.48
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 166.48,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 240.73,
+  "media_movel_30d": 240.73
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 329.05,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 258.39,
+  "media_movel_30d": 258.39
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 439.05,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 288.5,
+  "media_movel_30d": 288.5
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 459.03,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 312.86,
+  "media_movel_30d": 312.86
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 297.81,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 353.3,
+  "media_movel_30d": 310.98
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 150.18,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 305.2,
+  "media_movel_30d": 293.12
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 453.68,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 327.9,
+  "media_movel_30d": 309.17
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 461.62,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 370.06,
+  "media_movel_30d": 323.03
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 193.17,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 350.65,
+  "media_movel_30d": 312.21
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 225.84,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 320.19,
+  "media_movel_30d": 305.57
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 216.66,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 285.57,
+  "media_movel_30d": 299.22
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 471.47,
+  "ticker": "OLSW6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 310.37,
+  "media_movel_30d": 310.7
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 410.61,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 410.61,
+  "media_movel_30d": 410.61
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 209.62,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 310.12,
+  "media_movel_30d": 310.12
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 45.93,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 222.05,
+  "media_movel_30d": 222.05
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 119.99,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 196.54,
+  "media_movel_30d": 196.54
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 360.14,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 229.26,
+  "media_movel_30d": 229.26
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 172.71,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 219.83,
+  "media_movel_30d": 219.83
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 55.11,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 196.3,
+  "media_movel_30d": 196.3
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 397.59,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 194.44,
+  "media_movel_30d": 221.46
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 395.26,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 220.96,
+  "media_movel_30d": 240.77
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 252.06,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 250.41,
+  "media_movel_30d": 241.9
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 136.76,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 252.8,
+  "media_movel_30d": 232.34
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 129.94,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 219.92,
+  "media_movel_30d": 223.81
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 169.08,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 219.4,
+  "media_movel_30d": 219.6
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 338.91,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 259.94,
+  "media_movel_30d": 228.12
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 314.78,
+  "ticker": "OUPS6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 248.11,
+  "media_movel_30d": 233.9
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 379.04,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 379.04,
+  "media_movel_30d": 379.04
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 469.25,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 424.14,
+  "media_movel_30d": 424.14
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 200.25,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 349.51,
+  "media_movel_30d": 349.51
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 180.6,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 307.29,
+  "media_movel_30d": 307.29
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 293.87,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 304.6,
+  "media_movel_30d": 304.6
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 388.28,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 318.55,
+  "media_movel_30d": 318.55
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 125.1,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 290.91,
+  "media_movel_30d": 290.91
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 131.98,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 255.62,
+  "media_movel_30d": 271.05
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 107.55,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 203.95,
+  "media_movel_30d": 252.88
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 388.57,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 230.85,
+  "media_movel_30d": 266.45
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 211.88,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 235.32,
+  "media_movel_30d": 261.49
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 26.55,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 197.13,
+  "media_movel_30d": 241.91
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 137.07,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 161.24,
+  "media_movel_30d": 233.85
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 15.3,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 145.56,
+  "media_movel_30d": 218.23
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 389.93,
+  "ticker": "PGDL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 182.41,
+  "media_movel_30d": 229.68
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 88.03,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 88.03,
+  "media_movel_30d": 88.03
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 461.79,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 274.91,
+  "media_movel_30d": 274.91
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 308.16,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 285.99,
+  "media_movel_30d": 285.99
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 93.88,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 237.97,
+  "media_movel_30d": 237.97
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 242.97,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 238.97,
+  "media_movel_30d": 238.97
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 346.89,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 256.95,
+  "media_movel_30d": 256.95
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 380.15,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 274.55,
+  "media_movel_30d": 274.55
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 480.52,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 330.62,
+  "media_movel_30d": 300.3
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 112.56,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 280.73,
+  "media_movel_30d": 279.44
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 428.37,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 297.91,
+  "media_movel_30d": 294.33
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 36.13,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 289.66,
+  "media_movel_30d": 270.86
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 394.96,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 311.37,
+  "media_movel_30d": 281.2
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 494.89,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 332.51,
+  "media_movel_30d": 297.64
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 110.25,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 293.95,
+  "media_movel_30d": 284.25
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 311.97,
+  "ticker": "QBQI6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 269.88,
+  "media_movel_30d": 286.1
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 273.87,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 273.87,
+  "media_movel_30d": 273.87
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 150.61,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 212.24,
+  "media_movel_30d": 212.24
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 249.98,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 224.82,
+  "media_movel_30d": 224.82
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 272.59,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 236.76,
+  "media_movel_30d": 236.76
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 381.44,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 265.7,
+  "media_movel_30d": 265.7
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 16.89,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 224.23,
+  "media_movel_30d": 224.23
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 131.71,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 211.01,
+  "media_movel_30d": 211.01
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 106.89,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 187.16,
+  "media_movel_30d": 198
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 217.37,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 196.7,
+  "media_movel_30d": 200.15
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 283.1,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 201.43,
+  "media_movel_30d": 208.44
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 481.49,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 231.27,
+  "media_movel_30d": 233.27
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 286.52,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 217.71,
+  "media_movel_30d": 237.71
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 463.31,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 281.48,
+  "media_movel_30d": 255.06
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 325.4,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 309.15,
+  "media_movel_30d": 260.08
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 244.91,
+  "ticker": "QMTE3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 328.87,
+  "media_movel_30d": 259.07
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 233.32,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 233.32,
+  "media_movel_30d": 233.32
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 242.74,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 238.03,
+  "media_movel_30d": 238.03
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 357.5,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 277.85,
+  "media_movel_30d": 277.85
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 154.37,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 246.98,
+  "media_movel_30d": 246.98
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 329.6,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 263.51,
+  "media_movel_30d": 263.51
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 259.53,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 262.84,
+  "media_movel_30d": 262.84
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 337.5,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 273.51,
+  "media_movel_30d": 273.51
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 531.14,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 316.05,
+  "media_movel_30d": 305.71
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 297.92,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 323.94,
+  "media_movel_30d": 304.85
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 29.24,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 277.04,
+  "media_movel_30d": 277.29
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 291.49,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 296.63,
+  "media_movel_30d": 278.58
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 214.25,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 280.15,
+  "media_movel_30d": 273.22
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 469.09,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 310.09,
+  "media_movel_30d": 288.28
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 244.8,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 296.85,
+  "media_movel_30d": 285.18
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 192.74,
+  "ticker": "QSDW5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 248.5,
+  "media_movel_30d": 279.02
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 301.85,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 301.85,
+  "media_movel_30d": 301.85
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 387.7,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 344.77,
+  "media_movel_30d": 344.77
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 200.61,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 296.72,
+  "media_movel_30d": 296.72
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 328.66,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 304.71,
+  "media_movel_30d": 304.71
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 251.06,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 293.98,
+  "media_movel_30d": 293.98
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 317.58,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 297.91,
+  "media_movel_30d": 297.91
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 463.59,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 321.58,
+  "media_movel_30d": 321.58
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 451.28,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 342.93,
+  "media_movel_30d": 337.79
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 438.22,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 350.14,
+  "media_movel_30d": 348.95
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 447.88,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 385.47,
+  "media_movel_30d": 358.84
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 399.05,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 395.52,
+  "media_movel_30d": 362.5
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 86.18,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 371.97,
+  "media_movel_30d": 339.47
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 226.33,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 358.93,
+  "media_movel_30d": 330.77
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 223.37,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 324.62,
+  "media_movel_30d": 323.1
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 292.46,
+  "ticker": "QWRG5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 301.93,
+  "media_movel_30d": 321.05
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 467.99,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 467.99,
+  "media_movel_30d": 467.99
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 477.98,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 472.99,
+  "media_movel_30d": 472.99
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 399.52,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 448.5,
+  "media_movel_30d": 448.5
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 496.48,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 460.49,
+  "media_movel_30d": 460.49
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 104.88,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 389.37,
+  "media_movel_30d": 389.37
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 216.34,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 360.53,
+  "media_movel_30d": 360.53
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 299.65,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 351.83,
+  "media_movel_30d": 351.83
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 61.48,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 293.76,
+  "media_movel_30d": 315.54
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 247.36,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 260.82,
+  "media_movel_30d": 307.96
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 358.86,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 255.01,
+  "media_movel_30d": 313.05
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 479.81,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 252.63,
+  "media_movel_30d": 328.21
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 481.09,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 306.37,
+  "media_movel_30d": 340.95
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 396.66,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 332.13,
+  "media_movel_30d": 345.24
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 128.37,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 307.66,
+  "media_movel_30d": 329.75
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 177.23,
+  "ticker": "RCBJ5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 324.2,
+  "media_movel_30d": 319.58
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 153.64,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 153.64,
+  "media_movel_30d": 153.64
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 229.91,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 191.77,
+  "media_movel_30d": 191.77
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 299.58,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 227.71,
+  "media_movel_30d": 227.71
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 390.46,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 268.4,
+  "media_movel_30d": 268.4
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 308.4,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 276.4,
+  "media_movel_30d": 276.4
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 277.48,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 276.58,
+  "media_movel_30d": 276.58
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 285.15,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 277.8,
+  "media_movel_30d": 277.8
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 187.91,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 282.7,
+  "media_movel_30d": 266.57
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 301.71,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 292.96,
+  "media_movel_30d": 270.47
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 355.41,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 300.93,
+  "media_movel_30d": 278.97
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 142.37,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 265.49,
+  "media_movel_30d": 266.55
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 267.15,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 259.6,
+  "media_movel_30d": 266.6
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 97.84,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 233.93,
+  "media_movel_30d": 253.62
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 131.84,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 212.03,
+  "media_movel_30d": 244.92
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 359.76,
+  "ticker": "RTKX6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 236.58,
+  "media_movel_30d": 252.57
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 477.6,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 477.6,
+  "media_movel_30d": 477.6
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 97.76,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 287.68,
+  "media_movel_30d": 287.68
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 390.52,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 321.96,
+  "media_movel_30d": 321.96
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 14.22,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 245.03,
+  "media_movel_30d": 245.03
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 182.75,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 232.57,
+  "media_movel_30d": 232.57
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 296.25,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 243.18,
+  "media_movel_30d": 243.18
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 468.52,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 275.37,
+  "media_movel_30d": 275.37
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 197.12,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 235.31,
+  "media_movel_30d": 265.59
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 408.04,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 279.63,
+  "media_movel_30d": 281.42
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 470.11,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 291,
+  "media_movel_30d": 300.29
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 436.06,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 351.26,
+  "media_movel_30d": 312.63
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 493.07,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 395.6,
+  "media_movel_30d": 327.67
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 306.16,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 397.01,
+  "media_movel_30d": 326.01
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 425.63,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 390.88,
+  "media_movel_30d": 333.13
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 273.04,
+  "ticker": "RUDI3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 401.73,
+  "media_movel_30d": 329.12
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 469.08,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 469.08,
+  "media_movel_30d": 469.08
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 33.74,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 251.41,
+  "media_movel_30d": 251.41
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 82.05,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 194.96,
+  "media_movel_30d": 194.96
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 13.61,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 149.62,
+  "media_movel_30d": 149.62
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 355.39,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 190.77,
+  "media_movel_30d": 190.77
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 375.14,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 221.5,
+  "media_movel_30d": 221.5
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 421.16,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 250.02,
+  "media_movel_30d": 250.02
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 53.53,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 190.66,
+  "media_movel_30d": 225.46
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 81.97,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 197.55,
+  "media_movel_30d": 209.52
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 226.84,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 218.23,
+  "media_movel_30d": 211.25
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 501.33,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 287.91,
+  "media_movel_30d": 237.62
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 56.57,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 245.22,
+  "media_movel_30d": 222.53
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 255.96,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 228.19,
+  "media_movel_30d": 225.11
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 151.35,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 189.65,
+  "media_movel_30d": 219.84
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 270.84,
+  "ticker": "SAZN6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 220.69,
+  "media_movel_30d": 223.24
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 406.66,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 406.66,
+  "media_movel_30d": 406.66
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 260.92,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 333.79,
+  "media_movel_30d": 333.79
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 323.34,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 330.31,
+  "media_movel_30d": 330.31
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 115.31,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 276.56,
+  "media_movel_30d": 276.56
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 110.37,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 243.32,
+  "media_movel_30d": 243.32
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 397.36,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 268.99,
+  "media_movel_30d": 268.99
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 383,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 285.28,
+  "media_movel_30d": 285.28
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 353.78,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 277.73,
+  "media_movel_30d": 293.84
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 86.98,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 252.88,
+  "media_movel_30d": 270.86
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 447.78,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 270.65,
+  "media_movel_30d": 288.55
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 247.19,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 289.49,
+  "media_movel_30d": 284.79
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 492.27,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 344.05,
+  "media_movel_30d": 302.08
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 213.45,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 317.78,
+  "media_movel_30d": 295.26
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 256.67,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 299.73,
+  "media_movel_30d": 292.51
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 117.54,
+  "ticker": "SBPR6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 265.98,
+  "media_movel_30d": 280.84
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 309.13,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 309.13,
+  "media_movel_30d": 309.13
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 214.26,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 261.69,
+  "media_movel_30d": 261.69
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 22.8,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 182.06,
+  "media_movel_30d": 182.06
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 160.37,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 176.64,
+  "media_movel_30d": 176.64
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 200.39,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 181.39,
+  "media_movel_30d": 181.39
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 532.25,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 239.87,
+  "media_movel_30d": 239.87
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 290.68,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 247.13,
+  "media_movel_30d": 247.13
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 231.04,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 235.97,
+  "media_movel_30d": 245.12
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 429.61,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 266.73,
+  "media_movel_30d": 265.61
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 306.6,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 307.28,
+  "media_movel_30d": 269.71
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 230.93,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 317.36,
+  "media_movel_30d": 266.19
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 140.74,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 308.84,
+  "media_movel_30d": 255.73
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 196.68,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 260.9,
+  "media_movel_30d": 251.19
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 103.72,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 234.19,
+  "media_movel_30d": 240.66
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 86.83,
+  "ticker": "SMRV5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 213.59,
+  "media_movel_30d": 230.4
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 151.63,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 151.63,
+  "media_movel_30d": 151.63
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 314.74,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 233.19,
+  "media_movel_30d": 233.19
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 87.73,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 184.7,
+  "media_movel_30d": 184.7
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 214.58,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 192.17,
+  "media_movel_30d": 192.17
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 143.47,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 182.43,
+  "media_movel_30d": 182.43
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 329.55,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 206.95,
+  "media_movel_30d": 206.95
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 432.14,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 239.12,
+  "media_movel_30d": 239.12
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 22.64,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 220.69,
+  "media_movel_30d": 212.06
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 304.93,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 219.29,
+  "media_movel_30d": 222.38
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 268.29,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 245.09,
+  "media_movel_30d": 226.97
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 172.41,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 239.06,
+  "media_movel_30d": 222.01
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 418.01,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 278.28,
+  "media_movel_30d": 238.34
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 195.12,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 259.08,
+  "media_movel_30d": 235.02
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 411.82,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 256.17,
+  "media_movel_30d": 247.65
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 438.47,
+  "ticker": "SQJO1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 315.58,
+  "media_movel_30d": 260.37
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 194.94,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 194.94,
+  "media_movel_30d": 194.94
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 455.56,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 325.25,
+  "media_movel_30d": 325.25
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 160.46,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 270.32,
+  "media_movel_30d": 270.32
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 394.24,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 301.3,
+  "media_movel_30d": 301.3
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 148.71,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 270.78,
+  "media_movel_30d": 270.78
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 366.14,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 286.68,
+  "media_movel_30d": 286.68
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 188.96,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 272.72,
+  "media_movel_30d": 272.72
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 352.5,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 295.22,
+  "media_movel_30d": 282.69
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 304.32,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 273.62,
+  "media_movel_30d": 285.09
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 107.62,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 266.07,
+  "media_movel_30d": 267.34
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 88.64,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 222.41,
+  "media_movel_30d": 251.1
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 429.69,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 262.55,
+  "media_movel_30d": 265.98
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 91.93,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 223.38,
+  "media_movel_30d": 252.59
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 269.33,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 234.86,
+  "media_movel_30d": 253.79
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 362.01,
+  "ticker": "SQNN5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 236.22,
+  "media_movel_30d": 261
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 72.16,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 72.16,
+  "media_movel_30d": 72.16
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 30.16,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 51.16,
+  "media_movel_30d": 51.16
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 497.49,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 199.94,
+  "media_movel_30d": 199.94
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 304.63,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 226.11,
+  "media_movel_30d": 226.11
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 33.29,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 187.55,
+  "media_movel_30d": 187.55
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 304.09,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 206.97,
+  "media_movel_30d": 206.97
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 239.3,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 211.59,
+  "media_movel_30d": 211.59
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 169.18,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 225.45,
+  "media_movel_30d": 206.29
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 236,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 254.85,
+  "media_movel_30d": 209.59
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 367.44,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 236.28,
+  "media_movel_30d": 225.37
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 194.01,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 220.47,
+  "media_movel_30d": 222.52
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 369.42,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 268.49,
+  "media_movel_30d": 234.76
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 85.54,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 237.27,
+  "media_movel_30d": 223.29
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 300.29,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 245.98,
+  "media_movel_30d": 228.79
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 122.16,
+  "ticker": "SYLW1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 239.27,
+  "media_movel_30d": 221.68
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 214.01,
+  "ticker": "TILY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 214.01,
+  "media_movel_30d": 214.01
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 153.76,
+  "ticker": "TILY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 183.88,
+  "media_movel_30d": 183.88
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 184.97,
+  "ticker": "TILY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 184.25,
+  "media_movel_30d": 184.25
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 324.89,
+  "ticker": "TILY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 219.41,
+  "media_movel_30d": 219.41
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 418.61,
+  "ticker": "TILY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 259.25,
+  "media_movel_30d": 259.25
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 156.56,
+  "ticker": "TILY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 242.13,
+  "media_movel_30d": 242.13
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 118.15,
+  "ticker": "TILY6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 224.42,
+  "media_movel_30d": 224.42
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 294.94,
+  "ticker": "TILY6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 235.98,
+  "media_movel_30d": 233.24
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 326.88,
+  "ticker": "TILY6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 260.71,
+  "media_movel_30d": 243.64
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 300.18,
+  "ticker": "TILY6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 277.17,
+  "media_movel_30d": 249.29
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 96.07,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 96.07,
+  "media_movel_30d": 96.07
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 410.77,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 253.42,
+  "media_movel_30d": 253.42
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 492.62,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 333.15,
+  "media_movel_30d": 333.15
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 486.45,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 371.48,
+  "media_movel_30d": 371.48
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 364.28,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 370.04,
+  "media_movel_30d": 370.04
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 190.69,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 340.15,
+  "media_movel_30d": 340.15
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 318.28,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 337.02,
+  "media_movel_30d": 337.02
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 59.36,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 331.78,
+  "media_movel_30d": 302.31
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 216.26,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 303.99,
+  "media_movel_30d": 292.75
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 185.98,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 260.19,
+  "media_movel_30d": 282.08
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 224.41,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 222.75,
+  "media_movel_30d": 276.83
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 226.87,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 203.12,
+  "media_movel_30d": 272.67
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 120.1,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 193.04,
+  "media_movel_30d": 260.93
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 361.75,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 199.25,
+  "media_movel_30d": 268.13
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 376.32,
+  "ticker": "TSSL4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 244.53,
+  "media_movel_30d": 275.35
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 281.4,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 281.4,
+  "media_movel_30d": 281.4
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 439.12,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 360.26,
+  "media_movel_30d": 360.26
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 37.32,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 252.61,
+  "media_movel_30d": 252.61
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 213.44,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 242.82,
+  "media_movel_30d": 242.82
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 392.24,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 272.7,
+  "media_movel_30d": 272.7
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 171.08,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 255.77,
+  "media_movel_30d": 255.77
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 85.43,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 231.43,
+  "media_movel_30d": 231.43
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 159.47,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 214.01,
+  "media_movel_30d": 222.44
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 268.3,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 189.61,
+  "media_movel_30d": 227.53
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 217.47,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 215.35,
+  "media_movel_30d": 226.53
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 373.88,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 238.27,
+  "media_movel_30d": 239.92
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 27.13,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 186.11,
+  "media_movel_30d": 222.19
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 385.07,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 216.68,
+  "media_movel_30d": 234.72
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 155.98,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 226.76,
+  "media_movel_30d": 229.09
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 476.19,
+  "ticker": "ULDW1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 272,
+  "media_movel_30d": 245.57
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 460.35,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 460.35,
+  "media_movel_30d": 460.35
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 191.28,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 325.81,
+  "media_movel_30d": 325.81
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 208.59,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 286.74,
+  "media_movel_30d": 286.74
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 262.2,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 280.61,
+  "media_movel_30d": 280.61
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 163.95,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 257.27,
+  "media_movel_30d": 257.27
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 105.89,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 232.04,
+  "media_movel_30d": 232.04
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 58.72,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 207.28,
+  "media_movel_30d": 207.28
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 24.18,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 144.97,
+  "media_movel_30d": 184.4
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 242.67,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 152.31,
+  "media_movel_30d": 190.87
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 435.53,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 184.73,
+  "media_movel_30d": 215.34
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 119.33,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 164.32,
+  "media_movel_30d": 206.61
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 238.44,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 174.97,
+  "media_movel_30d": 209.26
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 12.84,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 161.67,
+  "media_movel_30d": 194.15
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 215.46,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 184.06,
+  "media_movel_30d": 195.67
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 117.81,
+  "ticker": "UMLL6",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 197.44,
+  "media_movel_30d": 190.48
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 464.01,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 464.01,
+  "media_movel_30d": 464.01
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 251.18,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 357.6,
+  "media_movel_30d": 357.6
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 425.41,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 380.2,
+  "media_movel_30d": 380.2
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 317.59,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 364.55,
+  "media_movel_30d": 364.55
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 118.17,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 315.27,
+  "media_movel_30d": 315.27
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 300.57,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 312.82,
+  "media_movel_30d": 312.82
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 23.15,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 271.44,
+  "media_movel_30d": 271.44
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 9.68,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 206.54,
+  "media_movel_30d": 238.72
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 76.95,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 181.65,
+  "media_movel_30d": 220.75
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 318.11,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 166.32,
+  "media_movel_30d": 230.48
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 183.17,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 147.11,
+  "media_movel_30d": 226.18
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 114.76,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 146.63,
+  "media_movel_30d": 216.9
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 354.2,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 154.29,
+  "media_movel_30d": 227.46
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 143.7,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 171.51,
+  "media_movel_30d": 221.47
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 149.01,
+  "ticker": "UODD1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 191.41,
+  "media_movel_30d": 216.64
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 73.05,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 73.05,
+  "media_movel_30d": 73.05
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 423.37,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 248.21,
+  "media_movel_30d": 248.21
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 353.45,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 283.29,
+  "media_movel_30d": 283.29
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 23.91,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 218.44,
+  "media_movel_30d": 218.44
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 298.57,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 234.47,
+  "media_movel_30d": 234.47
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 290.74,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 243.85,
+  "media_movel_30d": 243.85
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 407.22,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 267.19,
+  "media_movel_30d": 267.19
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 169.17,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 280.92,
+  "media_movel_30d": 254.94
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 220.71,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 251.97,
+  "media_movel_30d": 251.13
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 194.94,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 229.32,
+  "media_movel_30d": 245.51
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 222.29,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 257.66,
+  "media_movel_30d": 243.4
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 365.13,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 267.17,
+  "media_movel_30d": 253.55
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 56.76,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 233.75,
+  "media_movel_30d": 238.41
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 207.4,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 205.2,
+  "media_movel_30d": 236.19
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 522.26,
+  "ticker": "WDPO5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 255.64,
+  "media_movel_30d": 255.26
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 77.95,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 77.95,
+  "media_movel_30d": 77.95
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 51.86,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 64.91,
+  "media_movel_30d": 64.91
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 103.74,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 77.85,
+  "media_movel_30d": 77.85
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 343.21,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 144.19,
+  "media_movel_30d": 144.19
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 119.97,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 139.35,
+  "media_movel_30d": 139.35
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 26.09,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 120.47,
+  "media_movel_30d": 120.47
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 233.4,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 136.6,
+  "media_movel_30d": 136.6
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 421.8,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 185.72,
+  "media_movel_30d": 172.25
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 99.2,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 192.49,
+  "media_movel_30d": 164.14
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 484.32,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 246.86,
+  "media_movel_30d": 196.15
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 64.42,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 207.03,
+  "media_movel_30d": 184.18
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 361.66,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 241.56,
+  "media_movel_30d": 198.97
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 49.91,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 244.96,
+  "media_movel_30d": 187.5
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 159.48,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 234.4,
+  "media_movel_30d": 185.5
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 510.67,
+  "ticker": "WLCV4",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 247.09,
+  "media_movel_30d": 207.18
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 71.02,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 71.02,
+  "media_movel_30d": 71.02
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 324.82,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 197.92,
+  "media_movel_30d": 197.92
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 103.97,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 166.6,
+  "media_movel_30d": 166.6
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 349.99,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 212.45,
+  "media_movel_30d": 212.45
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 435.89,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 257.14,
+  "media_movel_30d": 257.14
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 152.83,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 239.75,
+  "media_movel_30d": 239.75
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 461.99,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 271.5,
+  "media_movel_30d": 271.5
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 83.08,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 273.22,
+  "media_movel_30d": 247.95
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 100.54,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 241.18,
+  "media_movel_30d": 231.57
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 501.29,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 297.94,
+  "media_movel_30d": 258.54
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 162.37,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 271.14,
+  "media_movel_30d": 249.8
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 415.81,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 268.27,
+  "media_movel_30d": 263.63
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 381.27,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 300.91,
+  "media_movel_30d": 272.68
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 345.33,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 284.24,
+  "media_movel_30d": 277.87
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 210.98,
+  "ticker": "WMXL1",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 302.51,
+  "media_movel_30d": 273.41
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 210.18,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 210.18,
+  "media_movel_30d": 210.18
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 278.66,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 244.42,
+  "media_movel_30d": 244.42
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 489.95,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 326.26,
+  "media_movel_30d": 326.26
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 351.02,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 332.45,
+  "media_movel_30d": 332.45
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 439.02,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 353.77,
+  "media_movel_30d": 353.77
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 497.14,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 377.66,
+  "media_movel_30d": 377.66
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 406.07,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 381.72,
+  "media_movel_30d": 381.72
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 419.77,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 411.66,
+  "media_movel_30d": 386.48
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 56.33,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 379.9,
+  "media_movel_30d": 349.79
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 422.66,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 370.29,
+  "media_movel_30d": 357.08
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 248.6,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 355.66,
+  "media_movel_30d": 347.22
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 384.85,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 347.92,
+  "media_movel_30d": 350.35
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 12.19,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 278.64,
+  "media_movel_30d": 324.34
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 342.96,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 269.62,
+  "media_movel_30d": 325.67
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 203.01,
+  "ticker": "XBVN3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 238.66,
+  "media_movel_30d": 317.49
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 94.32,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 94.32,
+  "media_movel_30d": 94.32
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 94.69,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 94.5,
+  "media_movel_30d": 94.5
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 231.49,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 140.17,
+  "media_movel_30d": 140.17
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 335.53,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 189.01,
+  "media_movel_30d": 189.01
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 462.27,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 243.66,
+  "media_movel_30d": 243.66
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 446.31,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 277.44,
+  "media_movel_30d": 277.44
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 96.63,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 251.61,
+  "media_movel_30d": 251.61
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 346.28,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 287.6,
+  "media_movel_30d": 263.44
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 253.59,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 310.3,
+  "media_movel_30d": 262.35
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 426.65,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 338.18,
+  "media_movel_30d": 278.78
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 447.25,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 354.14,
+  "media_movel_30d": 294.09
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 185.06,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 314.54,
+  "media_movel_30d": 285.01
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 388.23,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 306.24,
+  "media_movel_30d": 292.95
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 110,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 308.15,
+  "media_movel_30d": 279.88
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 336.23,
+  "ticker": "ZAQJ3",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 306.72,
+  "media_movel_30d": 283.64
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 437.3,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 437.3,
+  "media_movel_30d": 437.3
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 438.83,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 438.06,
+  "media_movel_30d": 438.06
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 439.75,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 438.63,
+  "media_movel_30d": 438.63
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 373.72,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 422.4,
+  "media_movel_30d": 422.4
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 431.14,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 424.15,
+  "media_movel_30d": 424.15
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 520.28,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 440.17,
+  "media_movel_30d": 440.17
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 323.06,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 423.44,
+  "media_movel_30d": 423.44
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 98.14,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 374.99,
+  "media_movel_30d": 382.78
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 249.95,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 348.01,
+  "media_movel_30d": 368.02
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 23.48,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 288.54,
+  "media_movel_30d": 333.56
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 249.76,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 270.83,
+  "media_movel_30d": 325.95
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 243.32,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 244,
+  "media_movel_30d": 319.06
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 115.41,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 186.16,
+  "media_movel_30d": 303.4
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 479.95,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 208.57,
+  "media_movel_30d": 316.01
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 363.59,
+  "ticker": "ZCCU1",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 246.49,
+  "media_movel_30d": 319.18
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 60.06,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 60.06,
+  "media_movel_30d": 60.06
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 372.98,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 216.52,
+  "media_movel_30d": 216.52
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 365.53,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 266.19,
+  "media_movel_30d": 266.19
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 99.4,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 224.49,
+  "media_movel_30d": 224.49
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 62.55,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 192.1,
+  "media_movel_30d": 192.1
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 208.08,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 194.77,
+  "media_movel_30d": 194.77
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 396.17,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "BAIXA (BEARISH)",
+  "media_movel_7d": 223.54,
+  "media_movel_30d": 223.54
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 425.79,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 275.79,
+  "media_movel_30d": 248.82
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 485.37,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 291.84,
+  "media_movel_30d": 275.1
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 253.22,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 275.8,
+  "media_movel_30d": 272.92
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 228.03,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 294.17,
+  "media_movel_30d": 268.83
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 166.8,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 309.07,
+  "media_movel_30d": 260.33
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 235.41,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 312.97,
+  "media_movel_30d": 258.41
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 42.54,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 262.45,
+  "media_movel_30d": 242.99
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 375.75,
+  "ticker": "ZTSI5",
+  "tendencia_mercado": "ALTA (BULLISH)",
+  "media_movel_7d": 255.3,
+  "media_movel_30d": 251.85
+}]

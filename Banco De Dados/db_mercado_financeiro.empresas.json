@@ -1,0 +1,900 @@
+[{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b01"
+  },
+  "id_empresas": 1,
+  "nome": "Leão",
+  "ticker": "LDOX1",
+  "setor_id_setor": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b02"
+  },
+  "id_empresas": 2,
+  "nome": "Vasconcelos da Mata e Filhos",
+  "ticker": "HIFW6",
+  "setor_id_setor": 6
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b03"
+  },
+  "id_empresas": 3,
+  "nome": "Peixoto",
+  "ticker": "COWX1",
+  "setor_id_setor": 5
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b04"
+  },
+  "id_empresas": 4,
+  "nome": "Araújo",
+  "ticker": "CHMX1",
+  "setor_id_setor": 4
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b05"
+  },
+  "id_empresas": 5,
+  "nome": "Souza",
+  "ticker": "ISPV6",
+  "setor_id_setor": 6
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b06"
+  },
+  "id_empresas": 6,
+  "nome": "Camargo Ltda.",
+  "ticker": "SYLW1",
+  "setor_id_setor": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b07"
+  },
+  "id_empresas": 7,
+  "nome": "Nogueira Pires S.A.",
+  "ticker": "JOZG1",
+  "setor_id_setor": 4
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b08"
+  },
+  "id_empresas": 8,
+  "nome": "Siqueira - ME",
+  "ticker": "SQNN5",
+  "setor_id_setor": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b09"
+  },
+  "id_empresas": 9,
+  "nome": "Rocha",
+  "ticker": "SQJO1",
+  "setor_id_setor": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b0a"
+  },
+  "id_empresas": 10,
+  "nome": "Guerra e Filhos",
+  "ticker": "NGKE4",
+  "setor_id_setor": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b0b"
+  },
+  "id_empresas": 11,
+  "nome": "Sousa",
+  "ticker": "KPRT6",
+  "setor_id_setor": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b0c"
+  },
+  "id_empresas": 12,
+  "nome": "Farias",
+  "ticker": "OLOK5",
+  "setor_id_setor": 4
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b0d"
+  },
+  "id_empresas": 13,
+  "nome": "Sales S.A.",
+  "ticker": "GKXN3",
+  "setor_id_setor": 10
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b0e"
+  },
+  "id_empresas": 14,
+  "nome": "Gonçalves Moreira - ME",
+  "ticker": "ZTSI5",
+  "setor_id_setor": 11
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b0f"
+  },
+  "id_empresas": 15,
+  "nome": "Cassiano",
+  "ticker": "KWDD4",
+  "setor_id_setor": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b10"
+  },
+  "id_empresas": 16,
+  "nome": "Moreira",
+  "ticker": "ZAQJ3",
+  "setor_id_setor": 8
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b11"
+  },
+  "id_empresas": 17,
+  "nome": "Albuquerque e Filhos",
+  "ticker": "TSSL4",
+  "setor_id_setor": 8
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b12"
+  },
+  "id_empresas": 18,
+  "nome": "Fogaça",
+  "ticker": "QMTE3",
+  "setor_id_setor": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b13"
+  },
+  "id_empresas": 19,
+  "nome": "Campos",
+  "ticker": "RCBJ5",
+  "setor_id_setor": 10
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b14"
+  },
+  "id_empresas": 20,
+  "nome": "Marques - EI",
+  "ticker": "SMRV5",
+  "setor_id_setor": 11
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b15"
+  },
+  "id_empresas": 21,
+  "nome": "da Rosa",
+  "ticker": "DIRS3",
+  "setor_id_setor": 11
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b16"
+  },
+  "id_empresas": 22,
+  "nome": "da Mota Ramos - EI",
+  "ticker": "AZMP3",
+  "setor_id_setor": 8
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b17"
+  },
+  "id_empresas": 23,
+  "nome": "Jesus S.A.",
+  "ticker": "SBPR6",
+  "setor_id_setor": 6
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b18"
+  },
+  "id_empresas": 24,
+  "nome": "Campos Nunes - EI",
+  "ticker": "DHEU6",
+  "setor_id_setor": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b19"
+  },
+  "id_empresas": 25,
+  "nome": "das Neves",
+  "ticker": "GXQN4",
+  "setor_id_setor": 6
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b1a"
+  },
+  "id_empresas": 26,
+  "nome": "Porto - ME",
+  "ticker": "WLCV4",
+  "setor_id_setor": 9
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b1b"
+  },
+  "id_empresas": 27,
+  "nome": "Novaes Ltda.",
+  "ticker": "CFBV5",
+  "setor_id_setor": 4
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b1c"
+  },
+  "id_empresas": 28,
+  "nome": "Araújo",
+  "ticker": "LCIY6",
+  "setor_id_setor": 8
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b1d"
+  },
+  "id_empresas": 29,
+  "nome": "da Rocha",
+  "ticker": "RTKX6",
+  "setor_id_setor": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b1e"
+  },
+  "id_empresas": 30,
+  "nome": "Rios",
+  "ticker": "LAZH5",
+  "setor_id_setor": 5
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b1f"
+  },
+  "id_empresas": 31,
+  "nome": "Andrade Garcia - ME",
+  "ticker": "AOBM6",
+  "setor_id_setor": 8
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b20"
+  },
+  "id_empresas": 32,
+  "nome": "Camargo S.A.",
+  "ticker": "QBQI6",
+  "setor_id_setor": 6
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b21"
+  },
+  "id_empresas": 33,
+  "nome": "Cavalcanti",
+  "ticker": "QSDW5",
+  "setor_id_setor": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b22"
+  },
+  "id_empresas": 34,
+  "nome": "Vasconcelos - ME",
+  "ticker": "OUPS6",
+  "setor_id_setor": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b23"
+  },
+  "id_empresas": 35,
+  "nome": "Cavalcante - EI",
+  "ticker": "LIEG5",
+  "setor_id_setor": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b24"
+  },
+  "id_empresas": 36,
+  "nome": "Nogueira e Filhos",
+  "ticker": "RUDI3",
+  "setor_id_setor": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b25"
+  },
+  "id_empresas": 37,
+  "nome": "Cavalcante S.A.",
+  "ticker": "ITOQ6",
+  "setor_id_setor": 9
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b26"
+  },
+  "id_empresas": 38,
+  "nome": "Nunes Sales Ltda.",
+  "ticker": "FDNX6",
+  "setor_id_setor": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b27"
+  },
+  "id_empresas": 39,
+  "nome": "da Costa",
+  "ticker": "DYHY6",
+  "setor_id_setor": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b28"
+  },
+  "id_empresas": 40,
+  "nome": "Silveira - EI",
+  "ticker": "INQB3",
+  "setor_id_setor": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b29"
+  },
+  "id_empresas": 41,
+  "nome": "Monteiro",
+  "ticker": "DENI3",
+  "setor_id_setor": 4
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b2a"
+  },
+  "id_empresas": 42,
+  "nome": "Melo",
+  "ticker": "PGDL4",
+  "setor_id_setor": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b2b"
+  },
+  "id_empresas": 43,
+  "nome": "Abreu",
+  "ticker": "ULDW1",
+  "setor_id_setor": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b2c"
+  },
+  "id_empresas": 44,
+  "nome": "Ferreira",
+  "ticker": "QWRG5",
+  "setor_id_setor": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b2d"
+  },
+  "id_empresas": 45,
+  "nome": "Carvalho Melo e Filhos",
+  "ticker": "XBVN3",
+  "setor_id_setor": 5
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b2e"
+  },
+  "id_empresas": 46,
+  "nome": "Fernandes - EI",
+  "ticker": "LLEV1",
+  "setor_id_setor": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b2f"
+  },
+  "id_empresas": 47,
+  "nome": "das Neves Silva S.A.",
+  "ticker": "MKJK5",
+  "setor_id_setor": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b30"
+  },
+  "id_empresas": 48,
+  "nome": "da Paz",
+  "ticker": "WDPO5",
+  "setor_id_setor": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b31"
+  },
+  "id_empresas": 49,
+  "nome": "da Conceição Aparecida e Filhos",
+  "ticker": "BUYR5",
+  "setor_id_setor": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b32"
+  },
+  "id_empresas": 50,
+  "nome": "Cassiano Camargo - EI",
+  "ticker": "KKDE3",
+  "setor_id_setor": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b33"
+  },
+  "id_empresas": 51,
+  "nome": "Ramos",
+  "ticker": "UMLL6",
+  "setor_id_setor": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b34"
+  },
+  "id_empresas": 52,
+  "nome": "Silveira",
+  "ticker": "ZCCU1",
+  "setor_id_setor": 4
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b35"
+  },
+  "id_empresas": 53,
+  "nome": "Costa",
+  "ticker": "SAZN6",
+  "setor_id_setor": 8
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b36"
+  },
+  "id_empresas": 54,
+  "nome": "Moraes Fonseca Ltda.",
+  "ticker": "AVSL5",
+  "setor_id_setor": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b37"
+  },
+  "id_empresas": 55,
+  "nome": "Ribeiro",
+  "ticker": "BXDN1",
+  "setor_id_setor": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b38"
+  },
+  "id_empresas": 56,
+  "nome": "Machado Melo - EI",
+  "ticker": "MXYO3",
+  "setor_id_setor": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b39"
+  },
+  "id_empresas": 57,
+  "nome": "Sales da Mota - ME",
+  "ticker": "GOSJ5",
+  "setor_id_setor": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b3a"
+  },
+  "id_empresas": 58,
+  "nome": "Fernandes",
+  "ticker": "KFRX6",
+  "setor_id_setor": 8
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b3b"
+  },
+  "id_empresas": 59,
+  "nome": "Aparecida",
+  "ticker": "BKZJ6",
+  "setor_id_setor": 4
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b3c"
+  },
+  "id_empresas": 60,
+  "nome": "Carvalho",
+  "ticker": "KJNR5",
+  "setor_id_setor": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b3d"
+  },
+  "id_empresas": 61,
+  "nome": "Barros - EI",
+  "ticker": "UODD1",
+  "setor_id_setor": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b3e"
+  },
+  "id_empresas": 62,
+  "nome": "Vargas S/A",
+  "ticker": "OLSW6",
+  "setor_id_setor": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b3f"
+  },
+  "id_empresas": 63,
+  "nome": "Nunes Ltda.",
+  "ticker": "BWWA5",
+  "setor_id_setor": 8
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b40"
+  },
+  "id_empresas": 64,
+  "nome": "Sales",
+  "ticker": "GBHS5",
+  "setor_id_setor": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b41"
+  },
+  "id_empresas": 65,
+  "nome": "Leão",
+  "ticker": "WMXL1",
+  "setor_id_setor": 11
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b42"
+  },
+  "id_empresas": 66,
+  "nome": "Nascimento e Filhos",
+  "ticker": "CPAR5",
+  "setor_id_setor": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b43"
+  },
+  "id_empresas": 67,
+  "nome": "Cavalcanti",
+  "ticker": "TILY6",
+  "setor_id_setor": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b44"
+  },
+  "id_empresas": 68,
+  "nome": "Nunes Novaes - ME",
+  "ticker": "DAMS4",
+  "setor_id_setor": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b45"
+  },
+  "id_empresas": 69,
+  "nome": "Costa",
+  "ticker": "YXFE5",
+  "setor_id_setor": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b46"
+  },
+  "id_empresas": 70,
+  "nome": "Sousa - ME",
+  "ticker": "VVUS4",
+  "setor_id_setor": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b47"
+  },
+  "id_empresas": 71,
+  "nome": "Nogueira",
+  "ticker": "PFUL5",
+  "setor_id_setor": 6
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b48"
+  },
+  "id_empresas": 72,
+  "nome": "Farias Cavalcante - ME",
+  "ticker": "SXQL1",
+  "setor_id_setor": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b49"
+  },
+  "id_empresas": 73,
+  "nome": "Gomes",
+  "ticker": "BAEX4",
+  "setor_id_setor": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b4a"
+  },
+  "id_empresas": 74,
+  "nome": "Gomes",
+  "ticker": "WWTI1",
+  "setor_id_setor": 6
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b4b"
+  },
+  "id_empresas": 75,
+  "nome": "Cirino Ltda.",
+  "ticker": "SXOJ3",
+  "setor_id_setor": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b4c"
+  },
+  "id_empresas": 76,
+  "nome": "Vargas da Mota - EI",
+  "ticker": "GBZH3",
+  "setor_id_setor": 8
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b4d"
+  },
+  "id_empresas": 77,
+  "nome": "Rodrigues",
+  "ticker": "USKT1",
+  "setor_id_setor": 11
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b4e"
+  },
+  "id_empresas": 78,
+  "nome": "Casa Grande",
+  "ticker": "PWQG3",
+  "setor_id_setor": 9
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b4f"
+  },
+  "id_empresas": 79,
+  "nome": "da Rocha Ramos - ME",
+  "ticker": "IPFL6",
+  "setor_id_setor": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b50"
+  },
+  "id_empresas": 80,
+  "nome": "Moura Santos S.A.",
+  "ticker": "RKFE1",
+  "setor_id_setor": 4
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b51"
+  },
+  "id_empresas": 81,
+  "nome": "Pastor S/A",
+  "ticker": "QXDG4",
+  "setor_id_setor": 4
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b52"
+  },
+  "id_empresas": 82,
+  "nome": "Aparecida",
+  "ticker": "ANMK5",
+  "setor_id_setor": 11
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b53"
+  },
+  "id_empresas": 83,
+  "nome": "Caldeira",
+  "ticker": "UTGI6",
+  "setor_id_setor": 9
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b54"
+  },
+  "id_empresas": 84,
+  "nome": "Sousa - ME",
+  "ticker": "QJPX4",
+  "setor_id_setor": 2
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b55"
+  },
+  "id_empresas": 85,
+  "nome": "Monteiro",
+  "ticker": "PHZI6",
+  "setor_id_setor": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b56"
+  },
+  "id_empresas": 86,
+  "nome": "Machado - EI",
+  "ticker": "VQIZ3",
+  "setor_id_setor": 11
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b57"
+  },
+  "id_empresas": 87,
+  "nome": "Sales Gonçalves S.A.",
+  "ticker": "NJFA3",
+  "setor_id_setor": 11
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b58"
+  },
+  "id_empresas": 88,
+  "nome": "Marques",
+  "ticker": "FWVP4",
+  "setor_id_setor": 6
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b59"
+  },
+  "id_empresas": 89,
+  "nome": "Fonseca",
+  "ticker": "FOSJ6",
+  "setor_id_setor": 6
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b5a"
+  },
+  "id_empresas": 90,
+  "nome": "da Conceição Rezende Ltda.",
+  "ticker": "XSDJ1",
+  "setor_id_setor": 10
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b5b"
+  },
+  "id_empresas": 91,
+  "nome": "Costa",
+  "ticker": "GVDF6",
+  "setor_id_setor": 3
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b5c"
+  },
+  "id_empresas": 92,
+  "nome": "Mendes",
+  "ticker": "XFYX4",
+  "setor_id_setor": 5
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b5d"
+  },
+  "id_empresas": 93,
+  "nome": "da Cunha e Filhos",
+  "ticker": "SCAS4",
+  "setor_id_setor": 1
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b5e"
+  },
+  "id_empresas": 94,
+  "nome": "Macedo",
+  "ticker": "YCUK1",
+  "setor_id_setor": 5
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b5f"
+  },
+  "id_empresas": 95,
+  "nome": "Jesus",
+  "ticker": "KSZL1",
+  "setor_id_setor": 10
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b60"
+  },
+  "id_empresas": 96,
+  "nome": "Machado",
+  "ticker": "GXEJ1",
+  "setor_id_setor": 7
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b61"
+  },
+  "id_empresas": 97,
+  "nome": "Pires",
+  "ticker": "VRBP1",
+  "setor_id_setor": 5
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b62"
+  },
+  "id_empresas": 98,
+  "nome": "Barros e Filhos",
+  "ticker": "WWTU3",
+  "setor_id_setor": 8
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b63"
+  },
+  "id_empresas": 99,
+  "nome": "Nogueira Ltda.",
+  "ticker": "KOVO6",
+  "setor_id_setor": 6
+},
+{
+  "_id": {
+    "$oid": "691fa7760dc32b2c9b4b3b64"
+  },
+  "id_empresas": 100,
+  "nome": "da Costa",
+  "ticker": "SUCV3",
+  "setor_id_setor": 7
+}]
