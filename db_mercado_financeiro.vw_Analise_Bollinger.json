@@ -1,0 +1,8000 @@
+[{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 372.62,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 372.62,
+  "banda_inferior": 372.62
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 296.53,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 410.67,
+  "banda_inferior": 258.48
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 280.21,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 396.99,
+  "banda_inferior": 235.91
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 213.48,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 403.93,
+  "banda_inferior": 177.49
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 349.6,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 414.17,
+  "banda_inferior": 190.8
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 347.85,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 417.46,
+  "banda_inferior": 202.63
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 462.26,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 477.52,
+  "banda_inferior": 186.06
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 273.02,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 466.2,
+  "banda_inferior": 182.69
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 195.39,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 466.44,
+  "banda_inferior": 153.77
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 249.1,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 456.77,
+  "banda_inferior": 151.24
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 307.83,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 450.03,
+  "banda_inferior": 158.68
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 79.24,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "COMPRA (SOBREVENDIDO)",
+  "banda_superior": 472.51,
+  "banda_inferior": 98.68
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 190.59,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 464.87,
+  "banda_inferior": 91.71
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 137.83,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 462.06,
+  "banda_inferior": 74.45
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 369.3,
+  "ticker": "AOBM6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 468.89,
+  "banda_inferior": 81.09
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 196.91,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 196.91,
+  "banda_inferior": 196.91
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 101.04,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 244.84,
+  "banda_inferior": 53.11
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 297.03,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 358.36,
+  "banda_inferior": 38.29
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 47.48,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 351.08,
+  "banda_inferior": -29.85
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 28.95,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 334.57,
+  "banda_inferior": -66.01
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 228.35,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 345.78,
+  "banda_inferior": -45.86
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 249.12,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 358.25,
+  "banda_inferior": -30
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 341.66,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 402.56,
+  "banda_inferior": -29.93
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 435.14,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 470.92,
+  "banda_inferior": -42.99
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 96.29,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 455.98,
+  "banda_inferior": -51.59
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 84.35,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 442.77,
+  "banda_inferior": -59.8
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 34.62,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 434.15,
+  "banda_inferior": -77.32
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 125.23,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 421.65,
+  "banda_inferior": -73.01
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 319.43,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 434.47,
+  "banda_inferior": -65.09
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 449.17,
+  "ticker": "AVSL5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 477.35,
+  "banda_inferior": -72.71
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 466.66,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 466.66,
+  "banda_inferior": 466.66
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 311.61,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 544.18,
+  "banda_inferior": 234.08
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 482.8,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 574.71,
+  "banda_inferior": 266
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 314.72,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 555.93,
+  "banda_inferior": 231.96
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 412.58,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 543.32,
+  "banda_inferior": 252.03
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 242.91,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 547.9,
+  "banda_inferior": 195.86
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 177.84,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 556.29,
+  "banda_inferior": 132.03
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 242.4,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 540.97,
+  "banda_inferior": 121.91
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 22.57,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 574.1,
+  "banda_inferior": 20.15
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 135,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 561.1,
+  "banda_inferior": 0.72
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 471.19,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 586.89,
+  "banda_inferior": 9.52
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 64.26,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 583.86,
+  "banda_inferior": -26.44
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 367.88,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 582.58,
+  "banda_inferior": -11.43
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 492.49,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 605.75,
+  "banda_inferior": -5.05
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 158.46,
+  "ticker": "AZMP3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 594.31,
+  "banda_inferior": -12.53
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 214.28,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 214.28,
+  "banda_inferior": 214.28
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 419.38,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 521.93,
+  "banda_inferior": 111.73
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 42.01,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 533.73,
+  "banda_inferior": -83.29
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 322.37,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 529.62,
+  "banda_inferior": -30.6
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 109.36,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 495.96,
+  "banda_inferior": -53
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 407.96,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 539.1,
+  "banda_inferior": -33.98
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 418.16,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 565.71,
+  "banda_inferior": -13.28
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 201.13,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 542.14,
+  "banda_inferior": -8.48
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 362.67,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 543.94,
+  "banda_inferior": 11.02
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 10.5,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 550.05,
+  "banda_inferior": -48.49
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 123.33,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 533.8,
+  "banda_inferior": -55.41
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 195.93,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 518.66,
+  "banda_inferior": -47.48
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 487.84,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 558.37,
+  "banda_inferior": -48.39
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 392.01,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 565.52,
+  "banda_inferior": -35.96
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 433.59,
+  "ticker": "BKZJ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 578.54,
+  "banda_inferior": -26.47
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 397.45,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 397.45,
+  "banda_inferior": 397.45
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 201.17,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 495.59,
+  "banda_inferior": 103.03
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 54.47,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 498.71,
+  "banda_inferior": -63.32
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 392.52,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 548.02,
+  "banda_inferior": -25.22
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 431.63,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 585.73,
+  "banda_inferior": 5.16
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 260.1,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 555.86,
+  "banda_inferior": 23.26
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 86.96,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 545.02,
+  "banda_inferior": -23.79
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 375.75,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 551.73,
+  "banda_inferior": -1.72
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 120.02,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 536.28,
+  "banda_inferior": -20.71
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 396.88,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 548.76,
+  "banda_inferior": -5.37
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 22.5,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 549.57,
+  "banda_inferior": -51.49
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 195.85,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 533.84,
+  "banda_inferior": -44.62
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 143.54,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 519.89,
+  "banda_inferior": -46.22
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 19.26,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 516.18,
+  "banda_inferior": -73.59
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 32.41,
+  "ticker": "BUYR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 508.77,
+  "banda_inferior": -91.37
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 52.46,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 52.46,
+  "banda_inferior": 52.46
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 361.56,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 516.11,
+  "banda_inferior": -102.09
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 278.16,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 491.87,
+  "banda_inferior": -30.42
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 427.48,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 563.08,
+  "banda_inferior": -3.25
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 100.28,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 535.19,
+  "banda_inferior": -47.21
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 55.1,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 513.31,
+  "banda_inferior": -88.3
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 447.88,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 569.7,
+  "banda_inferior": -77.43
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 323.4,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 562.74,
+  "banda_inferior": -51.16
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 336.06,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 558.47,
+  "banda_inferior": -29.05
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 380.49,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 563.5,
+  "banda_inferior": -10.93
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 291.39,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 551.65,
+  "banda_inferior": 3.67
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 105.35,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 542.38,
+  "banda_inferior": -15.78
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 203.87,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 528.72,
+  "banda_inferior": -11.26
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 299.55,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 522.67,
+  "banda_inferior": 0.62
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 497.64,
+  "ticker": "BWWA5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 555.68,
+  "banda_inferior": -0.92
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 350.98,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 350.98,
+  "banda_inferior": 350.98
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 120.83,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 466.06,
+  "banda_inferior": 5.75
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 362.78,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 500.96,
+  "banda_inferior": 55.44
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 39.53,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 501.26,
+  "banda_inferior": -64.2
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 171.33,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 464.78,
+  "banda_inferior": -46.6
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 217.2,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 443.93,
+  "banda_inferior": -23.05
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 166.24,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 422.5,
+  "banda_inferior": -14.24
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 414.18,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 477.42,
+  "banda_inferior": -16.65
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 58.49,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 468.03,
+  "banda_inferior": -45.46
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 437.29,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 512.66,
+  "banda_inferior": -44.89
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 200.93,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 497.37,
+  "banda_inferior": -35.59
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 166.93,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 483.13,
+  "banda_inferior": -32.01
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 156.07,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 470.44,
+  "banda_inferior": -30.01
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 495.17,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 519.49,
+  "banda_inferior": -39.78
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 243.3,
+  "ticker": "BXDN1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 510.24,
+  "banda_inferior": -30.08
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 471.46,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 471.46,
+  "banda_inferior": 471.46
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 311.48,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 551.45,
+  "banda_inferior": 231.49
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 358.11,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 514.71,
+  "banda_inferior": 245.99
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 327.71,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 492.16,
+  "banda_inferior": 242.22
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 32.2,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 590.56,
+  "banda_inferior": 9.82
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 315.19,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 568,
+  "banda_inferior": 37.39
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 480.53,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 603.45,
+  "banda_inferior": 52.74
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 109.46,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 596.16,
+  "banda_inferior": 5.37
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 193.51,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 575.39,
+  "banda_inferior": 2.31
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 451.19,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 593.85,
+  "banda_inferior": 16.32
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 331.3,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 583.2,
+  "banda_inferior": 31.73
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 51.4,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 585.68,
+  "banda_inferior": -13.42
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 350.93,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 580.98,
+  "banda_inferior": 1.25
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 360.32,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 577.64,
+  "banda_inferior": 14.47
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 160.27,
+  "ticker": "CFBV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 567.35,
+  "banda_inferior": 6.66
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 270.32,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 270.32,
+  "banda_inferior": 270.32
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 347,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 385.34,
+  "banda_inferior": 231.98
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 233.11,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 378.31,
+  "banda_inferior": 188.64
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 325.82,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 384.01,
+  "banda_inferior": 204.12
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 81.49,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 439.67,
+  "banda_inferior": 63.42
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 346.91,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 453.3,
+  "banda_inferior": 81.58
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 35.5,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 470.87,
+  "banda_inferior": -2.25
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 375.13,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 491.99,
+  "banda_inferior": 11.83
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 417.67,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 519.51,
+  "banda_inferior": 21.15
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 261.19,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 505.87,
+  "banda_inferior": 32.96
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 286.78,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 496.67,
+  "banda_inferior": 45.32
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 221.16,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 484.66,
+  "banda_inferior": 49.02
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 170.95,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 474.88,
+  "banda_inferior": 44.04
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 150.15,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 466.74,
+  "banda_inferior": 36.57
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 329.57,
+  "ticker": "CHMX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 468.25,
+  "banda_inferior": 45.45
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 16.12,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 16.12,
+  "banda_inferior": 16.12
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 317.22,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 467.77,
+  "banda_inferior": -134.43
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 451.6,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 625.8,
+  "banda_inferior": -102.5
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 430.48,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 651.46,
+  "banda_inferior": -43.75
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 373.93,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 633.8,
+  "banda_inferior": 1.94
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 227.26,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 598.97,
+  "banda_inferior": 6.57
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 375.65,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 592.11,
+  "banda_inferior": 34.25
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 316.83,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 574.56,
+  "banda_inferior": 52.71
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 257.97,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 555.93,
+  "banda_inferior": 58.97
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 198.47,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 541.18,
+  "banda_inferior": 51.92
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 348.79,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 536.47,
+  "banda_inferior": 66.13
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 63.02,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 542.3,
+  "banda_inferior": 20.59
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 450.78,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 560.85,
+  "banda_inferior": 28.1
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 491.11,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 584.46,
+  "banda_inferior": 32.57
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 215.22,
+  "ticker": "COWX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 572.92,
+  "banda_inferior": 31.67
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 443.73,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 443.73,
+  "banda_inferior": 443.73
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 331.19,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 500,
+  "banda_inferior": 274.92
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 15.37,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 626.07,
+  "banda_inferior": -99.21
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 386.45,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 625.82,
+  "banda_inferior": -37.45
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 223.88,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 582.04,
+  "banda_inferior": -21.79
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 426.48,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 600.93,
+  "banda_inferior": 8.11
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 389.8,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 597.54,
+  "banda_inferior": 35.86
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 431.26,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 604.43,
+  "banda_inferior": 57.61
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 455.63,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 614.27,
+  "banda_inferior": 75.46
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 271.98,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 596.88,
+  "banda_inferior": 78.28
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 343.68,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 585.39,
+  "banda_inferior": 90.88
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 292.9,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 572.41,
+  "banda_inferior": 96.32
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 129.73,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 572,
+  "banda_inferior": 65.24
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 340.95,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 564.65,
+  "banda_inferior": 75.78
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 95.05,
+  "ticker": "CPAR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 566.71,
+  "banda_inferior": 43.7
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 432.45,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 432.45,
+  "banda_inferior": 432.45
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 10.34,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 643.5,
+  "banda_inferior": -200.72
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 156.15,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 549.74,
+  "banda_inferior": -150.45
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 199.97,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 502.92,
+  "banda_inferior": -103.47
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 275.54,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 492.77,
+  "banda_inferior": -62.99
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 182.38,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 464.3,
+  "banda_inferior": -45.36
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 310.16,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 470.08,
+  "banda_inferior": -22.37
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 104.86,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 452.38,
+  "banda_inferior": -34.42
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 439.42,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 505.95,
+  "banda_inferior": -36.78
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 401.98,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 527.66,
+  "banda_inferior": -25.01
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 393.06,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 540,
+  "banda_inferior": -11.58
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 302.98,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 532.36,
+  "banda_inferior": 2.52
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 161.08,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 520.02,
+  "banda_inferior": -1.5
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 27.46,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 520.9,
+  "banda_inferior": -35.5
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 331.02,
+  "ticker": "DENI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 520.94,
+  "banda_inferior": -23.76
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 85.5,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 85.5,
+  "banda_inferior": 85.5
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 377.6,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 523.65,
+  "banda_inferior": -60.55
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 400.85,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 574.97,
+  "banda_inferior": 1
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 45.32,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 552.79,
+  "banda_inferior": -98.16
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 299.49,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 538.54,
+  "banda_inferior": -55.03
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 187.99,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 506.66,
+  "banda_inferior": -41.08
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 47.92,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 491.04,
+  "banda_inferior": -78.28
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 254.76,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 480.62,
+  "banda_inferior": -55.76
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 211.69,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 465.2,
+  "banda_inferior": -40.51
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 403.34,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 497.29,
+  "banda_inferior": -34.4
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 428.66,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 527.05,
+  "banda_inferior": -28.3
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 393.59,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 538.94,
+  "banda_inferior": -16.16
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 74.2,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 531.71,
+  "banda_inferior": -37.72
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 343.5,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 532.71,
+  "banda_inferior": -24.94
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 395.03,
+  "ticker": "DHEU6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 541.72,
+  "banda_inferior": -15.12
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 366.83,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 366.83,
+  "banda_inferior": 366.83
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 413.63,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 437.03,
+  "banda_inferior": 343.43
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 269.01,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 470.33,
+  "banda_inferior": 229.32
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 362.56,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 457.95,
+  "banda_inferior": 248.06
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 350.98,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 446.48,
+  "banda_inferior": 258.72
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 279.7,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 441.92,
+  "banda_inferior": 238.98
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 80.57,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "COMPRA (SOBREVENDIDO)",
+  "banda_superior": 508.04,
+  "banda_inferior": 98.62
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 289.55,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 493.31,
+  "banda_inferior": 109.9
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 351.23,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 490.53,
+  "banda_inferior": 123.71
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 427.34,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 507.5,
+  "banda_inferior": 130.78
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 167.52,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 504.99,
+  "banda_inferior": 105.72
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 533.24,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 553.26,
+  "banda_inferior": 95.44
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 68.51,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 563.43,
+  "banda_inferior": 45.9
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 442.06,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 573.68,
+  "banda_inferior": 55.28
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 391.31,
+  "ticker": "DIRS3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 572.93,
+  "banda_inferior": 66.27
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 170,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 170,
+  "banda_inferior": 170
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 376.71,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 480.06,
+  "banda_inferior": 66.65
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 334.52,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 472.1,
+  "banda_inferior": 115.39
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 180.82,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 448.33,
+  "banda_inferior": 82.69
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 305.88,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 440.26,
+  "banda_inferior": 106.91
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 350.15,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 448.85,
+  "banda_inferior": 123.84
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 233.9,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 433.72,
+  "banda_inferior": 123.99
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 272.89,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 423.02,
+  "banda_inferior": 133.2
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 101.87,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 434.42,
+  "banda_inferior": 82.64
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 384.05,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 454.15,
+  "banda_inferior": 88.01
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 292.88,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 448.06,
+  "banda_inferior": 98.06
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 103.68,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 450.88,
+  "banda_inferior": 67.01
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 147.5,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 444.11,
+  "banda_inferior": 56.64
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 494.7,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "VENDA (SOBRECOMPRADO)",
+  "banda_superior": 492.97,
+  "banda_inferior": 42.68
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 451.48,
+  "ticker": "DYHY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 516.09,
+  "banda_inferior": 44.05
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 162.27,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 162.27,
+  "banda_inferior": 162.27
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 60.26,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 213.28,
+  "banda_inferior": 9.25
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 194.55,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 253.5,
+  "banda_inferior": 24.56
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 348.98,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 398.61,
+  "banda_inferior": -15.58
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 99.81,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 372.4,
+  "banda_inferior": -26.06
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 196.38,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 359.73,
+  "banda_inferior": -5.65
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 433.58,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 460.35,
+  "banda_inferior": -32.97
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 318.44,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 467.69,
+  "banda_inferior": -14.13
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 412.22,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 502.68,
+  "banda_inferior": -7.9
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 53.98,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 496.6,
+  "banda_inferior": -40.51
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 123.79,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 481.55,
+  "banda_inferior": -44.41
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 79.07,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 470.27,
+  "banda_inferior": -56.39
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 252.19,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 464.57,
+  "banda_inferior": -43.72
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 24.93,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 460.05,
+  "banda_inferior": -65.7
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 213.19,
+  "ticker": "FDNX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 452.33,
+  "banda_inferior": -55.85
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 372.23,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 372.23,
+  "banda_inferior": 372.23
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 351.6,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 382.55,
+  "banda_inferior": 341.29
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 402.51,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 417.26,
+  "banda_inferior": 333.63
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 450.8,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 468.92,
+  "banda_inferior": 319.65
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 87.44,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 587.31,
+  "banda_inferior": 78.53
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 323.69,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 563.71,
+  "banda_inferior": 99.05
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 468.03,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 586.3,
+  "banda_inferior": 115.5
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 456.17,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 595,
+  "banda_inferior": 133.12
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 189.17,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 588.53,
+  "banda_inferior": 100.72
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 19.6,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 614.73,
+  "banda_inferior": 9.51
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 16.07,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 620.21,
+  "banda_inferior": -49.79
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 162.7,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 602.81,
+  "banda_inferior": -52.81
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 140.72,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 587.65,
+  "banda_inferior": -58.3
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 264.44,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 575.88,
+  "banda_inferior": -46.57
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 132.94,
+  "ticker": "GBHS5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 563.64,
+  "banda_inferior": -51.9
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 345.46,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 345.46,
+  "banda_inferior": 345.46
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 241.29,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 397.54,
+  "banda_inferior": 189.21
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 314.21,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 387.61,
+  "banda_inferior": 213.03
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 297.83,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 375.33,
+  "banda_inferior": 224.07
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 377.11,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 406.89,
+  "banda_inferior": 223.47
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 356.76,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 411.38,
+  "banda_inferior": 232.84
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 191.82,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 426.57,
+  "banda_inferior": 180.43
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 441.57,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 467.7,
+  "banda_inferior": 173.81
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 329.19,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 460.34,
+  "banda_inferior": 183.05
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 251.73,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 452.76,
+  "banda_inferior": 176.63
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 323.28,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 447.21,
+  "banda_inferior": 183.75
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 442.81,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 470.52,
+  "banda_inferior": 181.65
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 322.68,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 464.61,
+  "banda_inferior": 187.05
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 76.76,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "COMPRA (SOBREVENDIDO)",
+  "banda_superior": 493.35,
+  "banda_inferior": 122.72
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 330.26,
+  "ticker": "GKXN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 488.89,
+  "banda_inferior": 130.14
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 308.25,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 308.25,
+  "banda_inferior": 308.25
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 202.65,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 361.05,
+  "banda_inferior": 149.85
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 234.25,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 336.89,
+  "banda_inferior": 159.87
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 283.09,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 339.39,
+  "banda_inferior": 174.73
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 91.38,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 375.55,
+  "banda_inferior": 72.3
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 78.11,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 375.61,
+  "banda_inferior": 23.64
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 309.71,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 395.58,
+  "banda_inferior": 35.12
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 397,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 445.08,
+  "banda_inferior": 31.03
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 133.76,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 432.36,
+  "banda_inferior": 20.57
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 132.22,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 420.39,
+  "banda_inferior": 13.69
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 98.19,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 411.82,
+  "banda_inferior": 0.66
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 98.83,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 402.87,
+  "banda_inferior": -8.3
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 190.04,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 394.29,
+  "banda_inferior": -0.83
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 116.56,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 385.8,
+  "banda_inferior": -3.8
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 255.14,
+  "ticker": "GOSJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 386.17,
+  "banda_inferior": 4.38
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 324.87,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 324.87,
+  "banda_inferior": 324.87
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 275.03,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 349.79,
+  "banda_inferior": 250.11
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 444.97,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 490.94,
+  "banda_inferior": 205.64
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 189.36,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 493.51,
+  "banda_inferior": 123.61
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 387.01,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 501.18,
+  "banda_inferior": 147.32
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 213.2,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 487.23,
+  "banda_inferior": 124.25
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 511.87,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 556.65,
+  "banda_inferior": 113.73
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 147.32,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 553.27,
+  "banda_inferior": 70.14
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 112.66,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 549.44,
+  "banda_inferior": 29.74
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 211.22,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 532.71,
+  "banda_inferior": 30.79
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 390.87,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 539.04,
+  "banda_inferior": 44.3
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 472.28,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 563.74,
+  "banda_inferior": 49.7
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 437.66,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 573.4,
+  "banda_inferior": 60.19
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 351.09,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 567.15,
+  "banda_inferior": 71.34
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 191.89,
+  "ticker": "GXQN4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 558.54,
+  "banda_inferior": 62.97
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 85.93,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 85.93,
+  "banda_inferior": 85.93
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 173.63,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 217.48,
+  "banda_inferior": 42.08
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 216.18,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 267.04,
+  "banda_inferior": 50.12
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 103.41,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 250.17,
+  "banda_inferior": 39.41
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 394.47,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 415.59,
+  "banda_inferior": -26.14
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 495.51,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 546.38,
+  "banda_inferior": -56.67
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 226.48,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 521.68,
+  "banda_inferior": -37.22
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 53.95,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 508.25,
+  "banda_inferior": -70.86
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 503.68,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 576.87,
+  "banda_inferior": -76.15
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 92.48,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 558.49,
+  "banda_inferior": -89.34
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 173.66,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 539.86,
+  "banda_inferior": -81.79
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 177.48,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 523.69,
+  "banda_inferior": -74.21
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 200.91,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 510.41,
+  "banda_inferior": -64.6
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 506.38,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 556.32,
+  "banda_inferior": -70.01
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 484.71,
+  "ticker": "HIFW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 584.92,
+  "banda_inferior": -66.41
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 186.91,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 186.91,
+  "banda_inferior": 186.91
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 170.94,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 194.9,
+  "banda_inferior": 162.96
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 19.91,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 276.41,
+  "banda_inferior": -24.57
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 341.76,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 407.75,
+  "banda_inferior": -47.99
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 519.49,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 587.44,
+  "banda_inferior": -91.84
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 389.87,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 599.11,
+  "banda_inferior": -56.15
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 301.92,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 579.9,
+  "banda_inferior": -28.25
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 224.36,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 555.86,
+  "banda_inferior": -17.07
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 102.13,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 540.63,
+  "banda_inferior": -39.01
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 368.42,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 546.43,
+  "banda_inferior": -21.29
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 409.44,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 559.44,
+  "banda_inferior": -7.6
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 16.44,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 561.31,
+  "banda_inferior": -52.71
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 45.96,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 553.45,
+  "banda_inferior": -76.9
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 327.99,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 551.89,
+  "banda_inferior": -62.52
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 435.38,
+  "ticker": "INQB3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 569.06,
+  "banda_inferior": -54.27
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 75.64,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 75.64,
+  "banda_inferior": 75.64
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 235.04,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 314.74,
+  "banda_inferior": -4.06
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 417.29,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 521.82,
+  "banda_inferior": -36.51
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 476.52,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 616.51,
+  "banda_inferior": -14.26
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 80.06,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 589.85,
+  "banda_inferior": -76.03
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 385.48,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 597.02,
+  "banda_inferior": -40.34
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 303.74,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 577.55,
+  "banda_inferior": -13.61
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 391.21,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 581.4,
+  "banda_inferior": 9.85
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 464.29,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 603.9,
+  "banda_inferior": 24.83
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 490.61,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 626.32,
+  "banda_inferior": 37.66
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 408.94,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 623.08,
+  "banda_inferior": 54.88
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 26.18,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 635.23,
+  "banda_inferior": -9.39
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 70.8,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 629.77,
+  "banda_inferior": -41.18
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 399.84,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 629.64,
+  "banda_inferior": -25.98
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 408.58,
+  "ticker": "ISPV6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 630.09,
+  "banda_inferior": -12.19
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 242.5,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 242.5,
+  "banda_inferior": 242.5
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 407.98,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 490.72,
+  "banda_inferior": 159.76
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 493.97,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 590.2,
+  "banda_inferior": 172.77
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 236.8,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 565.25,
+  "banda_inferior": 125.38
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 346.55,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 542.28,
+  "banda_inferior": 148.84
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 467.75,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 567.28,
+  "banda_inferior": 164.57
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 399.13,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 558.53,
+  "banda_inferior": 182.81
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 100.03,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 587.69,
+  "banda_inferior": 85.99
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 121.41,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 585.42,
+  "banda_inferior": 40.38
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 196.85,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 569.05,
+  "banda_inferior": 33.55
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 108.08,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 562.14,
+  "banda_inferior": 5.32
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 392.01,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 565.95,
+  "banda_inferior": 19.56
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 357.4,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 562.46,
+  "banda_inferior": 33
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 299.6,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 552.96,
+  "banda_inferior": 42.76
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 307.36,
+  "ticker": "ITOQ6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 544.99,
+  "banda_inferior": 52
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 327.6,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 327.6,
+  "banda_inferior": 327.6
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 14.2,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 484.3,
+  "banda_inferior": -142.5
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 322.22,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 514.31,
+  "banda_inferior": -71.63
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 500.21,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 641.34,
+  "banda_inferior": -59.23
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 98.95,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 601.61,
+  "banda_inferior": -96.33
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 401.92,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 614.96,
+  "banda_inferior": -59.92
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 462.11,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 641.95,
+  "banda_inferior": -34.18
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 494.3,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 668.08,
+  "banda_inferior": -12.7
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 79.44,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 656.95,
+  "banda_inferior": -56.74
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 27.67,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 648.79,
+  "banda_inferior": -103.07
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 200.99,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 627.14,
+  "banda_inferior": -94.48
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 475.78,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 648.12,
+  "banda_inferior": -80.55
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 31.96,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 639.3,
+  "banda_inferior": -110.47
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 51.49,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 626.73,
+  "banda_inferior": -128.33
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 527.33,
+  "ticker": "JOZG1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 657.98,
+  "banda_inferior": -122.49
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 274.22,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 274.22,
+  "banda_inferior": 274.22
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 476.28,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 577.31,
+  "banda_inferior": 173.19
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 108.08,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 587.3,
+  "banda_inferior": -14.92
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 17.8,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 568.42,
+  "banda_inferior": -130.23
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 454.83,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 631.19,
+  "banda_inferior": -98.71
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 471.49,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 667.05,
+  "banda_inferior": -66.15
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 310.27,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 641.32,
+  "banda_inferior": -37.62
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 141.84,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 616.57,
+  "banda_inferior": -52.87
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 286.58,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 597.97,
+  "banda_inferior": -33.21
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 450.04,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 614.99,
+  "banda_inferior": -16.7
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 89.71,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 604.43,
+  "banda_inferior": -44.23
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 33.34,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 598.7,
+  "banda_inferior": -79.62
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 174.02,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 581.99,
+  "banda_inferior": -76.06
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 437.23,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 597.08,
+  "banda_inferior": -64.84
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 349.53,
+  "ticker": "KFRX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 594.12,
+  "banda_inferior": -50.75
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 454.82,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 454.82,
+  "banda_inferior": 454.82
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 434.94,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 464.76,
+  "banda_inferior": 425
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 494.8,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 511.31,
+  "banda_inferior": 411.73
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 320.22,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 555.94,
+  "banda_inferior": 296.45
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 434.41,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 544.07,
+  "banda_inferior": 311.61
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 348.98,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 535.99,
+  "banda_inferior": 293.4
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 135.7,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "COMPRA (SOBREVENDIDO)",
+  "banda_superior": 600.08,
+  "banda_inferior": 149.59
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 452.13,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 601.31,
+  "banda_inferior": 167.69
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 135.64,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 614.24,
+  "banda_inferior": 99.46
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 226.09,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 600.25,
+  "banda_inferior": 87.29
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 318.33,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 586.44,
+  "banda_inferior": 96.48
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 244.66,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 573.97,
+  "banda_inferior": 92.82
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 363.95,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 567.46,
+  "banda_inferior": 104.03
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 133.32,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 567.71,
+  "banda_inferior": 74.86
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 468.94,
+  "ticker": "KJNR5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 580.34,
+  "banda_inferior": 81.92
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 104.09,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 104.09,
+  "banda_inferior": 104.09
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 217.4,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 274.06,
+  "banda_inferior": 47.44
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 218.47,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 287.32,
+  "banda_inferior": 72.65
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 460.86,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 510.61,
+  "banda_inferior": -10.2
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 299.7,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 496.36,
+  "banda_inferior": 23.85
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 92.97,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 481.31,
+  "banda_inferior": -16.81
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 150.69,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 458.14,
+  "banda_inferior": -16.95
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 220.69,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 442.81,
+  "banda_inferior": -1.59
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 44.92,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 437.9,
+  "banda_inferior": -35.73
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 209.3,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 426.63,
+  "banda_inferior": -22.81
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 190.41,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 415.23,
+  "banda_inferior": -13.5
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 206.1,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 406.56,
+  "banda_inferior": -3.96
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 104.5,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 397.69,
+  "banda_inferior": -9.99
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 414.66,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 436.6,
+  "banda_inferior": -17.35
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 173.4,
+  "ticker": "KKDE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 427.23,
+  "banda_inferior": -12.81
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 216.93,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 216.93,
+  "banda_inferior": 216.93
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 444.93,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 558.93,
+  "banda_inferior": 102.93
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 110.97,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 536.29,
+  "banda_inferior": -21.07
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 28.2,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 512.86,
+  "banda_inferior": -112.34
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 147.4,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 472.46,
+  "banda_inferior": -93.09
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 22.17,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 448.52,
+  "banda_inferior": -124.98
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 136.66,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 424.24,
+  "banda_inferior": -107.88
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 17.02,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 406.35,
+  "banda_inferior": -125.28
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 537.07,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 538.04,
+  "banda_inferior": -168.85
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 243.53,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 527.66,
+  "banda_inferior": -146.68
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 343.19,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 537.62,
+  "banda_inferior": -128.88
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 171.5,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 521.21,
+  "banda_inferior": -117.95
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 153.05,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 506.03,
+  "banda_inferior": -110.24
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 218.14,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 496.45,
+  "banda_inferior": -97.77
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 446.5,
+  "ticker": "KPRT6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 528.22,
+  "banda_inferior": -96.58
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 478.19,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 478.19,
+  "banda_inferior": 478.19
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 492.89,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 500.24,
+  "banda_inferior": 470.84
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 247.85,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 630.73,
+  "banda_inferior": 181.89
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 82.37,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 666.61,
+  "banda_inferior": -15.96
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 438.74,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 666.46,
+  "banda_inferior": 29.55
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 378.32,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 644.64,
+  "banda_inferior": 61.48
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 212.35,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 620.31,
+  "banda_inferior": 45.6
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 159.98,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 603.47,
+  "banda_inferior": 19.2
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 332.29,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 589.4,
+  "banda_inferior": 37.92
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 401.01,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 589.19,
+  "banda_inferior": 55.61
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 193.21,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 575.65,
+  "banda_inferior": 45.66
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 326.27,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 565.82,
+  "banda_inferior": 58.09
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 295.53,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 554.75,
+  "banda_inferior": 66.63
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 271.43,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 543.94,
+  "banda_inferior": 71.84
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 273.11,
+  "ticker": "KWDD4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 534.27,
+  "banda_inferior": 76.87
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 138.36,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 138.36,
+  "banda_inferior": 138.36
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 103.78,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 155.65,
+  "banda_inferior": 86.49
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 12.14,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 191.27,
+  "banda_inferior": -21.75
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 485.06,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 543.57,
+  "banda_inferior": -173.9
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 400.83,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 592.46,
+  "banda_inferior": -136.4
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 158.47,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 553.13,
+  "banda_inferior": -120.25
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 80.89,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 522.91,
+  "banda_inferior": -128.76
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 432.14,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 568.61,
+  "banda_inferior": -115.7
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 473.89,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 612.07,
+  "banda_inferior": -104.17
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 117.31,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 589.78,
+  "banda_inferior": -109.21
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 481.54,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 623.17,
+  "banda_inferior": -98.73
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 187.13,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 604.03,
+  "banda_inferior": -92.1
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 259,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 590.61,
+  "banda_inferior": -78.22
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 111.04,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 576.64,
+  "banda_inferior": -84.98
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 37.3,
+  "ticker": "LAZH5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 568.02,
+  "banda_inferior": -104.17
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 331.78,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 331.78,
+  "banda_inferior": 331.78
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 111.2,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 442.07,
+  "banda_inferior": 0.91
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 380.35,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 508.69,
+  "banda_inferior": 40.2
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 463.85,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 582.67,
+  "banda_inferior": 60.92
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 159.44,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 556.38,
+  "banda_inferior": 22.27
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 462.16,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 593.86,
+  "banda_inferior": 42.4
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 512.44,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 635.13,
+  "banda_inferior": 56.65
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 261.6,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 611.59,
+  "banda_inferior": 59.11
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 11.2,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 630,
+  "banda_inferior": -31.33
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 206.26,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 608.66,
+  "banda_inferior": -28.6
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 45.01,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 602.63,
+  "banda_inferior": -67.12
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 452.15,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 619.55,
+  "banda_inferior": -53.31
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 162.72,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 603.4,
+  "banda_inferior": -55.68
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 197.65,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 588.39,
+  "banda_inferior": -51.56
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 321.23,
+  "ticker": "LCIY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 582.18,
+  "banda_inferior": -38.31
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 159.33,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 159.33,
+  "banda_inferior": 159.33
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 13.59,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 232.2,
+  "banda_inferior": -59.28
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 131.4,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 227.75,
+  "banda_inferior": -24.87
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 194.3,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 260.43,
+  "banda_inferior": -11.12
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 83.64,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 242.24,
+  "banda_inferior": -9.34
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 342.73,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 358.2,
+  "banda_inferior": -49.87
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 478.65,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 495.91,
+  "banda_inferior": -94.87
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 103.87,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 472.05,
+  "banda_inferior": -95.17
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 42.37,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 454.92,
+  "banda_inferior": -110.5
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 337.17,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 474.59,
+  "banda_inferior": -97.18
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 38.91,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 460.95,
+  "banda_inferior": -110.78
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 222.68,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 454.01,
+  "banda_inferior": -95.9
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 433.69,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 495.63,
+  "banda_inferior": -98.35
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 88.6,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 482.52,
+  "banda_inferior": -100.96
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 95.8,
+  "ticker": "LDOX1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 470.25,
+  "banda_inferior": -101.36
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 463.68,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 463.68,
+  "banda_inferior": 463.68
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 447.43,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 471.81,
+  "banda_inferior": 439.31
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 281.69,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 562.06,
+  "banda_inferior": 233.14
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 192.37,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 574.05,
+  "banda_inferior": 118.53
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 413.41,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 570.39,
+  "banda_inferior": 149.04
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 174.4,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 565.61,
+  "banda_inferior": 92.05
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 411.46,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 567.35,
+  "banda_inferior": 113.92
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 367.2,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 556.75,
+  "banda_inferior": 131.16
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 421.37,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 559,
+  "banda_inferior": 146.11
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 249.47,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 547.63,
+  "banda_inferior": 136.86
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 127.13,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 554.31,
+  "banda_inferior": 91.08
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 479.3,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 573.8,
+  "banda_inferior": 97.69
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 183.46,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 566.72,
+  "banda_inferior": 81.34
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 256.33,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 555.64,
+  "banda_inferior": 82.75
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 423.1,
+  "ticker": "LIEG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 560.35,
+  "banda_inferior": 91.89
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 250.11,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 250.11,
+  "banda_inferior": 250.11
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 240.04,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 255.15,
+  "banda_inferior": 235
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 338.55,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 364.75,
+  "banda_inferior": 187.72
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 535.57,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 578.38,
+  "banda_inferior": 103.75
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 452.8,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 593.73,
+  "banda_inferior": 133.1
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 344.83,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 571.02,
+  "banda_inferior": 149.62
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 35.65,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 613.4,
+  "banda_inferior": 14.47
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 209.94,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 589.39,
+  "banda_inferior": 12.49
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 476.54,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 613.94,
+  "banda_inferior": 26.95
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 291.84,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 596.55,
+  "banda_inferior": 38.62
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 128.94,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 587.68,
+  "banda_inferior": 13.19
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 448.85,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 599.8,
+  "banda_inferior": 25.81
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 477.77,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 614.91,
+  "banda_inferior": 36.08
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 141.85,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 606.87,
+  "banda_inferior": 17.89
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 33.45,
+  "ticker": "LLEV1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 610.49,
+  "banda_inferior": -22.93
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 449.92,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 449.92,
+  "banda_inferior": 449.92
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 476.37,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 489.59,
+  "banda_inferior": 436.69
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 494.01,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 509.67,
+  "banda_inferior": 437.2
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 473.21,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 504.76,
+  "banda_inferior": 441.99
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 380.1,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 534.45,
+  "banda_inferior": 375
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 290.86,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 569.59,
+  "banda_inferior": 285.24
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 93.92,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "COMPRA (SOBREVENDIDO)",
+  "banda_superior": 647.72,
+  "banda_inferior": 111.82
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 425.1,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 637.87,
+  "banda_inferior": 133
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 185.81,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 632.3,
+  "banda_inferior": 94.21
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 503.11,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 645.92,
+  "banda_inferior": 108.56
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 94.59,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 654.92,
+  "banda_inferior": 48.17
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 433.67,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 652.38,
+  "banda_inferior": 64.4
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 12.31,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 669.11,
+  "banda_inferior": -5.57
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 254.13,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 653.74,
+  "banda_inferior": -1.3
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 463.48,
+  "ticker": "MKJK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 659.11,
+  "banda_inferior": 11.63
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 71.38,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 71.38,
+  "banda_inferior": 71.38
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 13.82,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 100.16,
+  "banda_inferior": -14.96
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 167,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 210.42,
+  "banda_inferior": -42.28
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 146.77,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 221.9,
+  "banda_inferior": -22.41
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 147.59,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 225.08,
+  "banda_inferior": -6.46
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 360.99,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 366.57,
+  "banda_inferior": -64.05
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 293.7,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 394.48,
+  "banda_inferior": -51.27
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 379.36,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 447.27,
+  "banda_inferior": -52.12
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 191.8,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 432.38,
+  "banda_inferior": -38.51
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 500.86,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 515.67,
+  "banda_inferior": -61.02
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 254.89,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 505.22,
+  "banda_inferior": -45.55
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 404.16,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 525.08,
+  "banda_inferior": -36.36
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 97.83,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 513.87,
+  "banda_inferior": -47.69
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 249.8,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 504.99,
+  "banda_inferior": -36.42
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 374.81,
+  "ticker": "MXYO3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 514.41,
+  "banda_inferior": -27.11
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 475.75,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 475.75,
+  "banda_inferior": 475.75
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 73.77,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 676.74,
+  "banda_inferior": -127.22
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 186.95,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 583.99,
+  "banda_inferior": -93.01
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 73.4,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 531.32,
+  "banda_inferior": -126.39
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 286.66,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 521.06,
+  "banda_inferior": -82.44
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 178.52,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 489.64,
+  "banda_inferior": -64.62
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 340.77,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 502.65,
+  "banda_inferior": -40.99
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 75.53,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 485.65,
+  "banda_inferior": -62.81
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 293.54,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 484.19,
+  "banda_inferior": -43.11
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 257.07,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 475.28,
+  "banda_inferior": -26.88
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 385.92,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 495.72,
+  "banda_inferior": -17.92
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 283.6,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 489.75,
+  "banda_inferior": -4.5
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 464.07,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 524.8,
+  "banda_inferior": -5.49
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 90.6,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 517.51,
+  "banda_inferior": -22.35
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 450.29,
+  "ticker": "NGKE4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 540.79,
+  "banda_inferior": -18.6
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 53.58,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 53.58,
+  "banda_inferior": 53.58
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 176.87,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 238.51,
+  "banda_inferior": -8.07
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 236.95,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 308.46,
+  "banda_inferior": 3.14
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 467.64,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 534.44,
+  "banda_inferior": -66.92
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 165.43,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 494.53,
+  "banda_inferior": -54.35
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 173.15,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 465.23,
+  "banda_inferior": -40.69
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 313.09,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 471.27,
+  "banda_inferior": -17.92
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 361.97,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 489.26,
+  "banda_inferior": -2.09
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 472.78,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 541.82,
+  "banda_inferior": -3.72
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 178.6,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 524.41,
+  "banda_inferior": -4.39
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 27.26,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 524.26,
+  "banda_inferior": -46.57
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 241.89,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 512.37,
+  "banda_inferior": -34.17
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 416.23,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 531.73,
+  "banda_inferior": -26.28
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 326.7,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 529.55,
+  "banda_inferior": -13.53
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 102.51,
+  "ticker": "OLOK5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 521.21,
+  "banda_inferior": -25.92
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 14.75,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 14.75,
+  "banda_inferior": 14.75
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 486.9,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 722.97,
+  "banda_inferior": -221.32
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 294.79,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 653.21,
+  "banda_inferior": -122.25
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 166.48,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 587.29,
+  "banda_inferior": -105.83
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 329.05,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 576.32,
+  "banda_inferior": -59.53
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 439.05,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 608.44,
+  "banda_inferior": -31.43
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 459.03,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 632.21,
+  "banda_inferior": -6.48
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 297.81,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 609.87,
+  "banda_inferior": 12.1
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 150.18,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 592.48,
+  "banda_inferior": -6.25
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 453.68,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 609.07,
+  "banda_inferior": 9.27
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 461.62,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 622.11,
+  "banda_inferior": 23.95
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 193.17,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 607.41,
+  "banda_inferior": 17
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 225.84,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 592.9,
+  "banda_inferior": 18.23
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 216.66,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 579.86,
+  "banda_inferior": 18.57
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 471.47,
+  "ticker": "OLSW6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 595.12,
+  "banda_inferior": 26.28
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 410.61,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 410.61,
+  "banda_inferior": 410.61
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 209.62,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 511.11,
+  "banda_inferior": 109.12
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 45.93,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 520.33,
+  "banda_inferior": -76.23
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 119.99,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 469.56,
+  "banda_inferior": -76.48
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 360.14,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 506.32,
+  "banda_inferior": -47.8
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 172.71,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 476.24,
+  "banda_inferior": -36.57
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 55.11,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 460.2,
+  "banda_inferior": -67.6
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 397.59,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 501.93,
+  "banda_inferior": -59.01
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 395.26,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 526.88,
+  "banda_inferior": -45.33
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 252.06,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 513.41,
+  "banda_inferior": -29.61
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 136.76,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 498.18,
+  "banda_inferior": -33.49
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 129.94,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 484.55,
+  "banda_inferior": -36.93
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 169.08,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 471.8,
+  "banda_inferior": -32.6
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 338.91,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 478.8,
+  "banda_inferior": -22.56
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 314.78,
+  "ticker": "OUPS6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 479.91,
+  "banda_inferior": -12.11
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 379.04,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 379.04,
+  "banda_inferior": 379.04
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 469.25,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 514.36,
+  "banda_inferior": 333.94
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 200.25,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 573.09,
+  "banda_inferior": 125.94
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 180.6,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 549.95,
+  "banda_inferior": 64.62
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 293.87,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 521.91,
+  "banda_inferior": 87.29
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 388.28,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 526.5,
+  "banda_inferior": 110.6
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 125.1,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 526.28,
+  "banda_inferior": 55.55
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 131.98,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 515.02,
+  "banda_inferior": 27.07
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 107.55,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 504.81,
+  "banda_inferior": 0.95
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 388.57,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 518.94,
+  "banda_inferior": 13.96
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 211.88,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 504.26,
+  "banda_inferior": 18.71
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 26.55,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 508.17,
+  "banda_inferior": -24.35
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 137.07,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 495.69,
+  "banda_inferior": -28
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 15.3,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 494.52,
+  "banda_inferior": -58.05
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 389.93,
+  "ticker": "PGDL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 510.01,
+  "banda_inferior": -50.65
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 88.03,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 88.03,
+  "banda_inferior": 88.03
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 461.79,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 648.67,
+  "banda_inferior": -98.85
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 308.16,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 592.77,
+  "banda_inferior": -20.79
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 93.88,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 551.44,
+  "banda_inferior": -75.51
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 242.97,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 519.37,
+  "banda_inferior": -41.44
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 346.89,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 525.27,
+  "banda_inferior": -11.37
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 380.15,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 537.5,
+  "banda_inferior": 11.6
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 480.52,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 581.48,
+  "banda_inferior": 19.12
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 112.56,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 569.61,
+  "banda_inferior": -10.73
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 428.37,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 583.75,
+  "banda_inferior": 4.91
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 36.13,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 584.21,
+  "banda_inferior": -42.49
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 394.96,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 588.96,
+  "banda_inferior": -26.55
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 494.89,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 614.49,
+  "banda_inferior": -19.22
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 110.25,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 604.47,
+  "banda_inferior": -35.97
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 311.97,
+  "ticker": "QBQI6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 595.77,
+  "banda_inferior": -23.57
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 273.87,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 273.87,
+  "banda_inferior": 273.87
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 150.61,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 335.5,
+  "banda_inferior": 88.98
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 249.98,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 331.57,
+  "banda_inferior": 118.07
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 272.59,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 338.04,
+  "banda_inferior": 135.48
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 381.44,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 412.67,
+  "banda_inferior": 118.72
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 16.89,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 453.13,
+  "banda_inferior": -4.67
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 131.71,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 432.6,
+  "banda_inferior": -10.58
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 106.89,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 416.42,
+  "banda_inferior": -20.42
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 217.37,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 406.44,
+  "banda_inferior": -6.14
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 283.1,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 410.38,
+  "banda_inferior": 6.51
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 481.49,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 481.69,
+  "banda_inferior": -15.16
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 286.52,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 477.37,
+  "banda_inferior": -1.96
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 463.31,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 514.82,
+  "banda_inferior": -4.7
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 325.4,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 513.01,
+  "banda_inferior": 7.16
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 244.91,
+  "ticker": "QMTE3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 503.53,
+  "banda_inferior": 14.61
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 233.32,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 233.32,
+  "banda_inferior": 233.32
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 242.74,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 247.45,
+  "banda_inferior": 228.61
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 357.5,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 390.75,
+  "banda_inferior": 164.95
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 154.37,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 391.88,
+  "banda_inferior": 102.08
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 329.6,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 408.99,
+  "banda_inferior": 118.02
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 259.53,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 395.68,
+  "banda_inferior": 130
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 337.5,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 407.13,
+  "banda_inferior": 139.88
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 531.14,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "VENDA (SOBRECOMPRADO)",
+  "banda_superior": 517.05,
+  "banda_inferior": 94.38
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 297.92,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 504.15,
+  "banda_inferior": 105.54
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 29.24,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 528.48,
+  "banda_inferior": 26.1
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 291.49,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 518.22,
+  "banda_inferior": 38.94
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 214.25,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 505.39,
+  "banda_inferior": 41.04
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 469.09,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 534.57,
+  "banda_inferior": 42
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 244.8,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 523.56,
+  "banda_inferior": 46.8
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 192.74,
+  "ticker": "QSDW5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 513.88,
+  "banda_inferior": 44.15
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 301.85,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 301.85,
+  "banda_inferior": 301.85
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 387.7,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 430.62,
+  "banda_inferior": 258.93
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 200.61,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 449.65,
+  "banda_inferior": 143.79
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 328.66,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 440,
+  "banda_inferior": 169.41
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 251.06,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 422.38,
+  "banda_inferior": 165.58
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 317.58,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 416.44,
+  "banda_inferior": 179.38
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 463.59,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 481.22,
+  "banda_inferior": 161.93
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 451.28,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 510.01,
+  "banda_inferior": 165.57
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 438.22,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 523.16,
+  "banda_inferior": 174.74
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 447.88,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 534.45,
+  "banda_inferior": 183.24
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 399.05,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 531.52,
+  "banda_inferior": 193.48
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 86.18,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "COMPRA (SOBREVENDIDO)",
+  "banda_superior": 562,
+  "banda_inferior": 116.95
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 226.33,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 552.9,
+  "banda_inferior": 108.63
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 223.37,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 544.19,
+  "banda_inferior": 102.01
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 292.46,
+  "ticker": "QWRG5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 535.19,
+  "banda_inferior": 106.92
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 467.99,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 467.99,
+  "banda_inferior": 467.99
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 477.98,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 482.98,
+  "banda_inferior": 463
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 399.52,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 518.24,
+  "banda_inferior": 378.75
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 496.48,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 533.81,
+  "banda_inferior": 387.18
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 104.88,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 681.32,
+  "banda_inferior": 97.42
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 216.34,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 656.61,
+  "banda_inferior": 64.45
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 299.65,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 629.24,
+  "banda_inferior": 74.43
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 61.48,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 638.37,
+  "banda_inferior": -7.29
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 247.36,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 615.33,
+  "banda_inferior": 0.6
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 358.86,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 606.24,
+  "banda_inferior": 19.86
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 479.81,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 623.74,
+  "banda_inferior": 32.68
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 481.09,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 636.25,
+  "banda_inferior": 45.65
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 396.66,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 630.5,
+  "banda_inferior": 59.98
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 128.37,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 626.46,
+  "banda_inferior": 33.03
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 177.23,
+  "ticker": "RCBJ5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 616.16,
+  "banda_inferior": 23
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 153.64,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 153.64,
+  "banda_inferior": 153.64
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 229.91,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 268.04,
+  "banda_inferior": 115.5
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 299.58,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 346.91,
+  "banda_inferior": 108.51
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 390.46,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 443.1,
+  "banda_inferior": 93.69
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 308.4,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 435.9,
+  "banda_inferior": 116.89
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 277.48,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 422.19,
+  "banda_inferior": 130.97
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 285.15,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 412.74,
+  "banda_inferior": 142.86
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 187.91,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 406.1,
+  "banda_inferior": 127.04
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 301.71,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 403.86,
+  "banda_inferior": 137.08
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 355.41,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 415.39,
+  "banda_inferior": 142.54
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 142.37,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 418.49,
+  "banda_inferior": 114.6
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 267.15,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 412.07,
+  "banda_inferior": 121.12
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 97.84,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 419.82,
+  "banda_inferior": 87.41
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 131.84,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 416.92,
+  "banda_inferior": 72.91
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 359.76,
+  "ticker": "RTKX6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 428.35,
+  "banda_inferior": 76.8
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 477.6,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 477.6,
+  "banda_inferior": 477.6
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 97.76,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 667.52,
+  "banda_inferior": -92.16
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 390.52,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 646.9,
+  "banda_inferior": -2.98
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 14.22,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 632.6,
+  "banda_inferior": -142.55
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 182.75,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 582.79,
+  "banda_inferior": -117.65
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 296.25,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 566.4,
+  "banda_inferior": -80.03
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 468.52,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 613.62,
+  "banda_inferior": -62.88
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 197.12,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 586.2,
+  "banda_inferior": -55.02
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 408.04,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 596.67,
+  "banda_inferior": -33.83
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 470.11,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 620.08,
+  "banda_inferior": -19.5
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 436.06,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 627.37,
+  "banda_inferior": -2.11
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 493.07,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 645.09,
+  "banda_inferior": 10.25
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 306.16,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 631.2,
+  "banda_inferior": 20.83
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 425.63,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 631.65,
+  "banda_inferior": 34.61
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 273.04,
+  "ticker": "RUDI3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 619.08,
+  "banda_inferior": 39.17
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 469.08,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 469.08,
+  "banda_inferior": 469.08
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 33.74,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 686.75,
+  "banda_inferior": -183.93
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 82.05,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 584.63,
+  "banda_inferior": -194.71
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 13.61,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 521.84,
+  "banda_inferior": -222.6
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 355.39,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 562.17,
+  "banda_inferior": -180.62
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 375.14,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 587.33,
+  "banda_inferior": -144.33
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 421.16,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 616.41,
+  "banda_inferior": -116.36
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 53.53,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 592,
+  "banda_inferior": -141.07
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 81.97,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 566.67,
+  "banda_inferior": -147.63
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 226.84,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 550.23,
+  "banda_inferior": -127.73
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 501.33,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 601.32,
+  "banda_inferior": -126.08
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 56.57,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 584.85,
+  "banda_inferior": -139.78
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 255.96,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 573.66,
+  "banda_inferior": -123.45
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 151.35,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 557.86,
+  "banda_inferior": -118.18
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 270.84,
+  "ticker": "SAZN6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 550.78,
+  "banda_inferior": -104.31
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 406.66,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 406.66,
+  "banda_inferior": 406.66
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 260.92,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 479.53,
+  "banda_inferior": 188.05
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 323.34,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 449.71,
+  "banda_inferior": 210.9
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 115.31,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 489.54,
+  "banda_inferior": 63.58
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 110.37,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 475.62,
+  "banda_inferior": 11.02
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 397.36,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 510.14,
+  "banda_inferior": 27.84
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 383,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 522.37,
+  "banda_inferior": 48.19
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 353.78,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 520.2,
+  "banda_inferior": 67.49
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 86.98,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 520.76,
+  "banda_inferior": 20.96
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 447.78,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 548.31,
+  "banda_inferior": 28.79
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 247.19,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 533.6,
+  "banda_inferior": 35.98
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 492.27,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 566.47,
+  "banda_inferior": 37.69
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 213.45,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 553.63,
+  "banda_inferior": 36.89
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 256.67,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 542.27,
+  "banda_inferior": 42.74
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 117.54,
+  "ticker": "SBPR6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 537.44,
+  "banda_inferior": 24.25
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 309.13,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 309.13,
+  "banda_inferior": 309.13
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 214.26,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 356.56,
+  "banda_inferior": 166.82
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 22.8,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 420.24,
+  "banda_inferior": -56.12
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 160.37,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 383.76,
+  "banda_inferior": -30.48
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 200.39,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 367.62,
+  "banda_inferior": -4.84
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 532.25,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 551.78,
+  "banda_inferior": -72.05
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 290.68,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 538.09,
+  "banda_inferior": -43.83
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 231.04,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 517.49,
+  "banda_inferior": -27.26
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 429.61,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 547.38,
+  "banda_inferior": -16.15
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 306.6,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 538.15,
+  "banda_inferior": 1.28
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 230.93,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 523.1,
+  "banda_inferior": 9.27
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 140.74,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 511.3,
+  "banda_inferior": 0.17
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 196.68,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 498.74,
+  "banda_inferior": 3.64
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 103.72,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 491,
+  "banda_inferior": -9.69
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 86.83,
+  "ticker": "SMRV5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 484.14,
+  "banda_inferior": -23.34
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 151.63,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 151.63,
+  "banda_inferior": 151.63
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 314.74,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 396.3,
+  "banda_inferior": 70.07
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 87.73,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 375.86,
+  "banda_inferior": -6.46
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 214.58,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 359.73,
+  "banda_inferior": 24.61
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 143.47,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 337.28,
+  "banda_inferior": 27.58
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 329.55,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 385.86,
+  "banda_inferior": 28.04
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 432.14,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 467.75,
+  "banda_inferior": 10.49
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 22.64,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 469.43,
+  "banda_inferior": -45.31
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 304.93,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 471.96,
+  "banda_inferior": -27.2
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 268.29,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 465.34,
+  "banda_inferior": -11.4
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 172.41,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 451.44,
+  "banda_inferior": -7.42
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 418.01,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 483.27,
+  "banda_inferior": -6.58
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 195.12,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 471.46,
+  "banda_inferior": -1.42
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 411.82,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 493.01,
+  "banda_inferior": 2.28
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 438.47,
+  "ticker": "SQJO1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 515.82,
+  "banda_inferior": 4.92
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 194.94,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 194.94,
+  "banda_inferior": 194.94
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 455.56,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 585.87,
+  "banda_inferior": 64.63
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 160.46,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 533.8,
+  "banda_inferior": 6.84
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 394.24,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 553.46,
+  "banda_inferior": 49.14
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 148.71,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 527.23,
+  "banda_inferior": 14.33
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 366.14,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 531.33,
+  "banda_inferior": 42.02
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 188.96,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 509.32,
+  "banda_inferior": 36.11
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 352.5,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 510.22,
+  "banda_inferior": 55.16
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 304.32,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 500.04,
+  "banda_inferior": 70.14
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 107.62,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 497.39,
+  "banda_inferior": 37.3
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 88.64,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 493.31,
+  "banda_inferior": 8.89
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 429.69,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 518.02,
+  "banda_inferior": 13.94
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 91.93,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 511.9,
+  "banda_inferior": -6.72
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 269.33,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 503.82,
+  "banda_inferior": 3.76
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 362.01,
+  "ticker": "SQNN5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 508.51,
+  "banda_inferior": 13.49
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 72.16,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 72.16,
+  "banda_inferior": 72.16
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 30.16,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 93.16,
+  "banda_inferior": 9.16
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 497.49,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 622.14,
+  "banda_inferior": -222.26
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 304.63,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 602.82,
+  "banda_inferior": -150.6
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 33.29,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 558.12,
+  "banda_inferior": -183.02
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 304.09,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 556.23,
+  "banda_inferior": -142.29
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 239.3,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 535.73,
+  "banda_inferior": -112.55
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 169.18,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 510.79,
+  "banda_inferior": -98.21
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 236,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 497.28,
+  "banda_inferior": -78.1
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 367.44,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 514.27,
+  "banda_inferior": -63.52
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 194.01,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 498.56,
+  "banda_inferior": -53.52
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 369.42,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 511.25,
+  "banda_inferior": -41.72
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 85.54,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 500.57,
+  "banda_inferior": -54
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 300.29,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 498.91,
+  "banda_inferior": -41.34
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 122.16,
+  "ticker": "SYLW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 488.01,
+  "banda_inferior": -44.66
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 214.01,
+  "ticker": "TILY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 214.01,
+  "banda_inferior": 214.01
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 153.76,
+  "ticker": "TILY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 244.13,
+  "banda_inferior": 123.63
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 184.97,
+  "ticker": "TILY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 233.45,
+  "banda_inferior": 135.04
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 324.89,
+  "ticker": "TILY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 348.45,
+  "banda_inferior": 90.37
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 418.61,
+  "ticker": "TILY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 456.01,
+  "banda_inferior": 62.48
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 156.56,
+  "ticker": "TILY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 437.38,
+  "banda_inferior": 46.88
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 118.15,
+  "ticker": "TILY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 424.93,
+  "banda_inferior": 23.91
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 294.94,
+  "ticker": "TILY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 426.51,
+  "banda_inferior": 39.96
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 326.88,
+  "ticker": "TILY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 435.13,
+  "banda_inferior": 52.15
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 300.18,
+  "ticker": "TILY6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 434.1,
+  "banda_inferior": 64.49
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 96.07,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 96.07,
+  "banda_inferior": 96.07
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 410.77,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 568.12,
+  "banda_inferior": -61.28
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 492.62,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 675.04,
+  "banda_inferior": -8.73
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 486.45,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 695.96,
+  "banda_inferior": 47
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 364.28,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 660.32,
+  "banda_inferior": 79.76
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 190.69,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 636.94,
+  "banda_inferior": 43.35
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 318.28,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 612.23,
+  "banda_inferior": 61.82
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 59.36,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 618.55,
+  "banda_inferior": -13.92
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 216.26,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 595.76,
+  "banda_inferior": -10.26
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 185.98,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 576.59,
+  "banda_inferior": -12.44
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 224.41,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 559.59,
+  "banda_inferior": -5.92
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 226.87,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 544.8,
+  "banda_inferior": 0.54
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 120.1,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 534.74,
+  "banda_inferior": -12.87
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 361.75,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 537.04,
+  "banda_inferior": -0.77
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 376.32,
+  "ticker": "TSSL4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 540.68,
+  "banda_inferior": 10.01
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 281.4,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 281.4,
+  "banda_inferior": 281.4
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 439.12,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 517.98,
+  "banda_inferior": 202.54
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 37.32,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 583.2,
+  "banda_inferior": -77.97
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 213.44,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 531.12,
+  "banda_inferior": -45.48
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 392.24,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 556.92,
+  "banda_inferior": -11.52
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 171.08,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 526.05,
+  "banda_inferior": -14.52
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 85.43,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 508.62,
+  "banda_inferior": -45.75
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 159.47,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 486.05,
+  "banda_inferior": -41.18
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 268.3,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 477.74,
+  "banda_inferior": -22.67
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 217.47,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 463.97,
+  "banda_inferior": -10.91
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 373.88,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 481.65,
+  "banda_inferior": -1.8
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 27.13,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 481.8,
+  "banda_inferior": -37.42
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 385.07,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 498.82,
+  "banda_inferior": -29.38
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 155.98,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 486.8,
+  "banda_inferior": -28.61
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 476.19,
+  "ticker": "ULDW1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 523.38,
+  "banda_inferior": -32.24
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 460.35,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 460.35,
+  "banda_inferior": 460.35
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 191.28,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 594.88,
+  "banda_inferior": 56.74
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 208.59,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 532.67,
+  "banda_inferior": 40.81
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 262.2,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 494.64,
+  "banda_inferior": 66.57
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 163.95,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 470.25,
+  "banda_inferior": 44.3
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 105.89,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 456.83,
+  "banda_inferior": 7.25
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 58.72,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 448.17,
+  "banda_inferior": -33.6
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 24.18,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 440.21,
+  "banda_inferior": -71.42
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 242.67,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 434.82,
+  "banda_inferior": -53.08
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 435.53,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 489.4,
+  "banda_inferior": -58.72
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 119.33,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 473.68,
+  "banda_inferior": -60.46
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 238.44,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 465.57,
+  "banda_inferior": -47.05
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 12.84,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 461.73,
+  "banda_inferior": -73.43
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 215.46,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 453.75,
+  "banda_inferior": -62.41
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 117.81,
+  "ticker": "UMLL6",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 442.82,
+  "banda_inferior": -61.85
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 464.01,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 464.01,
+  "banda_inferior": 464.01
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 251.18,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 570.42,
+  "banda_inferior": 144.77
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 425.41,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 565.36,
+  "banda_inferior": 195.04
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 317.59,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 533.82,
+  "banda_inferior": 195.27
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 118.17,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 563.81,
+  "banda_inferior": 66.73
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 300.57,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 539.97,
+  "banda_inferior": 85.67
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 23.15,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 563.54,
+  "banda_inferior": -20.66
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 9.68,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 562.19,
+  "banda_inferior": -84.75
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 76.95,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 542.22,
+  "banda_inferior": -100.73
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 318.11,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 541.01,
+  "banda_inferior": -80.04
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 183.17,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 523.5,
+  "banda_inferior": -71.14
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 114.76,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 508.15,
+  "banda_inferior": -74.35
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 354.2,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 516.69,
+  "banda_inferior": -61.78
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 143.7,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 503.51,
+  "banda_inferior": -60.56
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 149.01,
+  "ticker": "UODD1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 491.5,
+  "banda_inferior": -58.21
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 73.05,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 73.05,
+  "banda_inferior": 73.05
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 423.37,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 598.53,
+  "banda_inferior": -102.11
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 353.45,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 586.05,
+  "banda_inferior": -19.47
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 23.91,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 563.7,
+  "banda_inferior": -126.81
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 298.57,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 549.86,
+  "banda_inferior": -80.92
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 290.74,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 534.8,
+  "banda_inferior": -47.1
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 407.22,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 559.82,
+  "banda_inferior": -25.44
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 169.17,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 536.24,
+  "banda_inferior": -26.37
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 220.71,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 517.22,
+  "banda_inferior": -14.95
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 194.94,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 500.19,
+  "banda_inferior": -9.16
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 222.29,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 486.59,
+  "banda_inferior": 0.21
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 365.13,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 495.91,
+  "banda_inferior": 11.18
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 56.76,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 493.79,
+  "banda_inferior": -16.97
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 207.4,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 482.8,
+  "banda_inferior": -10.42
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 522.26,
+  "ticker": "WDPO5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 532.99,
+  "banda_inferior": -22.46
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 77.95,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 77.95,
+  "banda_inferior": 77.95
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 51.86,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 91,
+  "banda_inferior": 38.81
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 103.74,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 120.21,
+  "banda_inferior": 35.49
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 343.21,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 376.91,
+  "banda_inferior": -88.53
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 119.97,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 348.4,
+  "banda_inferior": -69.7
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 26.09,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 329.14,
+  "banda_inferior": -88.2
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 233.4,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 345.34,
+  "banda_inferior": -72.13
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 421.8,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 443.75,
+  "banda_inferior": -99.24
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 99.2,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 424.19,
+  "banda_inferior": -95.92
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 484.32,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 508.84,
+  "banda_inferior": -116.53
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 64.42,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 491.78,
+  "banda_inferior": -123.42
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 361.66,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 509.39,
+  "banda_inferior": -111.45
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 49.91,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 496.14,
+  "banda_inferior": -121.14
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 159.48,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 483.26,
+  "banda_inferior": -112.26
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 510.67,
+  "ticker": "WLCV4",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 537.43,
+  "banda_inferior": -123.08
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 71.02,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 71.02,
+  "banda_inferior": 71.02
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 324.82,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 451.72,
+  "banda_inferior": -55.88
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 103.97,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 391.97,
+  "banda_inferior": -58.76
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 349.99,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 464.07,
+  "banda_inferior": -39.17
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 435.89,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 544.55,
+  "banda_inferior": -30.27
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 152.83,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 513.4,
+  "banda_inferior": -33.89
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 461.99,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 568.78,
+  "banda_inferior": -25.78
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 83.08,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 552.68,
+  "banda_inferior": -56.78
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 100.54,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 533.44,
+  "banda_inferior": -70.3
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 501.29,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 587.49,
+  "banda_inferior": -70.4
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 162.37,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 568.27,
+  "banda_inferior": -68.67
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 415.81,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 582.06,
+  "banda_inferior": -54.79
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 381.27,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 584.97,
+  "banda_inferior": -39.61
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 345.33,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 581.12,
+  "banda_inferior": -25.38
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 210.98,
+  "ticker": "WMXL1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 568.27,
+  "banda_inferior": -21.45
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 210.18,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 210.18,
+  "banda_inferior": 210.18
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 278.66,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 312.9,
+  "banda_inferior": 175.94
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 489.95,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 564.41,
+  "banda_inferior": 88.12
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 351.02,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 539.8,
+  "banda_inferior": 125.1
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 439.02,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 557.88,
+  "banda_inferior": 149.65
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 497.14,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 592.46,
+  "banda_inferior": 162.86
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 406.07,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 581.58,
+  "banda_inferior": 181.86
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 419.77,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 575.11,
+  "banda_inferior": 197.84
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 56.33,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "COMPRA (SOBREVENDIDO)",
+  "banda_superior": 623.09,
+  "banda_inferior": 76.5
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 422.66,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 620.01,
+  "banda_inferior": 94.15
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 248.6,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 605.56,
+  "banda_inferior": 88.88
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 384.85,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 598.57,
+  "banda_inferior": 102.14
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 12.19,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "COMPRA (SOBREVENDIDO)",
+  "banda_superior": 623.26,
+  "banda_inferior": 25.43
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 342.96,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 613.87,
+  "banda_inferior": 37.47
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 203.01,
+  "ticker": "XBVN3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 602.57,
+  "banda_inferior": 32.42
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 94.32,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 94.32,
+  "banda_inferior": 94.32
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 94.69,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 94.88,
+  "banda_inferior": 94.13
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 231.49,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 269.32,
+  "banda_inferior": 11.02
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 335.53,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 391.83,
+  "banda_inferior": -13.81
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 462.27,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 527.73,
+  "banda_inferior": -40.41
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 446.31,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 577.54,
+  "banda_inferior": -22.67
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 96.63,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 556.91,
+  "banda_inferior": -53.7
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 346.28,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 555.81,
+  "banda_inferior": -28.93
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 253.59,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 538.06,
+  "banda_inferior": -13.37
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 426.65,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 558.31,
+  "banda_inferior": -0.75
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 447.25,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 577.67,
+  "banda_inferior": 10.51
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 185.06,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 563.12,
+  "banda_inferior": 6.89
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 388.23,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 565.75,
+  "banda_inferior": 20.14
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 110,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 559.14,
+  "banda_inferior": 0.62
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 336.23,
+  "ticker": "ZAQJ3",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 554.89,
+  "banda_inferior": 12.38
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 437.3,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 437.3,
+  "banda_inferior": 437.3
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 438.83,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 439.59,
+  "banda_inferior": 436.54
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 439.75,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 440.65,
+  "banda_inferior": 436.61
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 373.72,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 478.64,
+  "banda_inferior": 366.16
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 431.14,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 474.93,
+  "banda_inferior": 373.36
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 520.28,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 525.51,
+  "banda_inferior": 354.83
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 323.06,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 537.28,
+  "banda_inferior": 309.6
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 98.14,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "COMPRA (SOBREVENDIDO)",
+  "banda_superior": 622.85,
+  "banda_inferior": 142.7
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 249.95,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 609.27,
+  "banda_inferior": 126.77
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 23.48,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "COMPRA (SOBREVENDIDO)",
+  "banda_superior": 641.98,
+  "banda_inferior": 25.15
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 249.76,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 623.93,
+  "banda_inferior": 27.97
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 243.32,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 607.99,
+  "banda_inferior": 30.13
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 115.41,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 601.45,
+  "banda_inferior": 5.34
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 479.95,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 617.27,
+  "banda_inferior": 14.74
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 363.59,
+  "ticker": "ZCCU1",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 611.2,
+  "banda_inferior": 27.16
+},
+{
+  "data_cotacao": "2025-08-27",
+  "fechamento": 60.06,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 60.06,
+  "banda_inferior": 60.06
+},
+{
+  "data_cotacao": "2025-08-28",
+  "fechamento": 372.98,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 529.44,
+  "banda_inferior": -96.4
+},
+{
+  "data_cotacao": "2025-08-29",
+  "fechamento": 365.53,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 557.77,
+  "banda_inferior": -25.39
+},
+{
+  "data_cotacao": "2025-08-30",
+  "fechamento": 99.4,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 515.4,
+  "banda_inferior": -66.41
+},
+{
+  "data_cotacao": "2025-08-31",
+  "fechamento": 62.55,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 482.77,
+  "banda_inferior": -98.56
+},
+{
+  "data_cotacao": "2025-09-01",
+  "fechamento": 208.08,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 460.37,
+  "banda_inferior": -70.84
+},
+{
+  "data_cotacao": "2025-09-02",
+  "fechamento": 396.17,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 506.97,
+  "banda_inferior": -59.9
+},
+{
+  "data_cotacao": "2025-09-03",
+  "fechamento": 425.79,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 545.79,
+  "banda_inferior": -48.15
+},
+{
+  "data_cotacao": "2025-09-04",
+  "fechamento": 485.37,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 592.12,
+  "banda_inferior": -41.91
+},
+{
+  "data_cotacao": "2025-09-05",
+  "fechamento": 253.22,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 573.95,
+  "banda_inferior": -28.12
+},
+{
+  "data_cotacao": "2025-09-06",
+  "fechamento": 228.03,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 557.01,
+  "banda_inferior": -19.35
+},
+{
+  "data_cotacao": "2025-09-07",
+  "fechamento": 166.8,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 541.95,
+  "banda_inferior": -21.29
+},
+{
+  "data_cotacao": "2025-09-08",
+  "fechamento": 235.41,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 529.31,
+  "banda_inferior": -12.48
+},
+{
+  "data_cotacao": "2025-09-09",
+  "fechamento": 42.54,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 526.73,
+  "banda_inferior": -40.74
+},
+{
+  "data_cotacao": "2025-09-10",
+  "fechamento": 375.75,
+  "ticker": "ZTSI5",
+  "sinal_bollinger": "NEUTRO",
+  "banda_superior": 533.85,
+  "banda_inferior": -30.16
+}]

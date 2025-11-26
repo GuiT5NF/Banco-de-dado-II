@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "691fa7da0dc32b2c9b4b3b84"
+  },
+  "id_setor": 1,
+  "nome_setor": "Bens industriais"
+},
+{
+  "_id": {
+    "$oid": "691fa7da0dc32b2c9b4b3b85"
+  },
+  "id_setor": 2,
+  "nome_setor": "Comunicações"
+},
+{
+  "_id": {
+    "$oid": "691fa7da0dc32b2c9b4b3b86"
+  },
+  "id_setor": 3,
+  "nome_setor": "Imobiliário"
+},
+{
+  "_id": {
+    "$oid": "691fa7da0dc32b2c9b4b3b87"
+  },
+  "id_setor": 4,
+  "nome_setor": "Consumo cíclico"
+},
+{
+  "_id": {
+    "$oid": "691fa7da0dc32b2c9b4b3b88"
+  },
+  "id_setor": 5,
+  "nome_setor": "Consumo não cíclico"
+},
+{
+  "_id": {
+    "$oid": "691fa7da0dc32b2c9b4b3b89"
+  },
+  "id_setor": 6,
+  "nome_setor": "Financeiro"
+},
+{
+  "_id": {
+    "$oid": "691fa7da0dc32b2c9b4b3b8a"
+  },
+  "id_setor": 7,
+  "nome_setor": "Materiais básicos"
+},
+{
+  "_id": {
+    "$oid": "691fa7da0dc32b2c9b4b3b8b"
+  },
+  "id_setor": 8,
+  "nome_setor": "Petróleo, gás e biocombustíveis"
+},
+{
+  "_id": {
+    "$oid": "691fa7da0dc32b2c9b4b3b8c"
+  },
+  "id_setor": 9,
+  "nome_setor": "Saúde"
+},
+{
+  "_id": {
+    "$oid": "691fa7da0dc32b2c9b4b3b8d"
+  },
+  "id_setor": 10,
+  "nome_setor": "Tecnologia da Informação"
+},
+{
+  "_id": {
+    "$oid": "691fa7da0dc32b2c9b4b3b8e"
+  },
+  "id_setor": 11,
+  "nome_setor": "Utilidade pública"
+}]
